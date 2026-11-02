@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>PfotenClan</title>
+<meta name="description" content="Finde den Hund, der wirklich zu deinem Leben passt. Quiz, 13 Hunde-Clans, ehrliche Ratgeber und Trainingspläne. Von Heiko & Loki.">
+<meta name="theme-color" content="#0C1013">
+<meta name="color-scheme" content="dark">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="PfotenClan">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preload" href="fonts/barlow-condensed-latin-900-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="styles.css?v=30-20261102105444">
+<meta property="og:title" content="PfotenClan – Sei nicht nur sein Besitzer. Sei sein Rudel.">
+<meta property="og:description" content="Finde den Hund, der wirklich zu deinem Leben passt.">
+<meta property="og:image" content="icons/icon-512.png">
+</head>
+<body>
+<a class="skip" href="#main">Zum Inhalt springen</a>
+<div id="app" class="app">
+  <main id="main" class="screen-host" tabindex="-1"></main>
+  <nav class="tabbar" id="tabbar" aria-label="Hauptbereiche"></nav>
+</div>
+<div id="overlay" class="overlay" hidden></div>
+<div id="welcome" class="welcome" hidden></div>
+<div id="update" class="update" hidden role="status">
+  <span>Neue Version von PfotenClan ist da.</span>
+  <button type="button" data-action="apply-update">Neu laden</button>
+</div>
+<noscript><p style="padding:24px;color:#ECEEEB">PfotenClan braucht JavaScript. Bitte aktiviere es in deinem Browser.</p></noscript>
+<script src="quiz-engine.js?v=30-20261102105444"></script>
+<script src="app.js?v=30-20261102105444"></script>
+</body>
+</html>

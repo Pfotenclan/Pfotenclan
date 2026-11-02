@@ -1,0 +1,174 @@
+{
+  "bibliothek-alleinbleiben": [
+    0.48,
+    0.4
+  ],
+  "bibliothek-clickertraining": [
+    0.68,
+    0.35
+  ],
+  "bibliothek-cooperative-care": [
+    0.55,
+    0.3
+  ],
+  "training-leinenfuehrigkeit": [
+    0.5,
+    0.45
+  ],
+  "training-impulskontrolle": [
+    0.5,
+    0.5
+  ],
+  "training-stubenreinheit": [
+    0.4,
+    0.5
+  ],
+  "bibliothek-herkunft": [
+    0.5,
+    0.55
+  ],
+  "bibliothek-ruede-oder-huendin": [
+    0.5,
+    0.45
+  ],
+  "bibliothek-guter-halter": [
+    0.5,
+    0.4
+  ],
+  "bibliothek-kind-und-hund": [
+    0.45,
+    0.55
+  ],
+  "bibliothek-ernaehrung": [
+    0.5,
+    0.45
+  ],
+  "bibliothek-gesundheit-pflege": [
+    0.45,
+    0.3
+  ],
+  "bibliothek-grunderziehung": [
+    0.45,
+    0.48
+  ],
+  "bibliothek-hitze-qualzucht": [
+    0.55,
+    0.55
+  ],
+  "bibliothek-kommunikation": [
+    0.5,
+    0.45
+  ],
+  "bibliothek-kosten-pflichten": [
+    0.4,
+    0.4
+  ],
+  "bibliothek-leinen-halsband": [
+    0.48,
+    0.5
+  ],
+  "bibliothek-ruhe-auslastung": [
+    0.72,
+    0.55
+  ],
+  "bibliothek-tierschutzhund": [
+    0.47,
+    0.52
+  ],
+  "bibliothek-welpenerziehung": [
+    0.45,
+    0.55
+  ],
+  "extra-berner": [
+    0.3,
+    0.45
+  ],
+  "lifestyle-aktive-begleiter": [
+    0.4,
+    0.4
+  ],
+  "lifestyle-allergikerfreundlich": [
+    0.55,
+    0.35
+  ],
+  "lifestyle-anfaengerhunde": [
+    0.4,
+    0.4
+  ],
+  "lifestyle-familienhunde": [
+    0.42,
+    0.45
+  ],
+  "lifestyle-ruhige-begleiter": [
+    0.7,
+    0.4
+  ],
+  "lifestyle-schutz-strassenhunde": [
+    0.72,
+    0.45
+  ],
+  "lifestyle-wohnungshunde": [
+    0.35,
+    0.45
+  ],
+  "rasse-dackel": [
+    0.62,
+    0.62
+  ],
+  "rasse-gesellschaftshunde": [
+    0.45,
+    0.4
+  ],
+  "rasse-herdenschutz": [
+    0.72,
+    0.45
+  ],
+  "rasse-huetehunde": [
+    0.52,
+    0.52
+  ],
+  "rasse-laufhunde": [
+    0.33,
+    0.45
+  ],
+  "rasse-molosser": [
+    0.55,
+    0.4
+  ],
+  "rasse-pinscher-schnauzer": [
+    0.25,
+    0.35
+  ],
+  "rasse-retriever": [
+    0.45,
+    0.45
+  ],
+  "rasse-spitze": [
+    0.5,
+    0.45
+  ],
+  "rasse-terrier": [
+    0.47,
+    0.45
+  ],
+  "rasse-vorstehhunde": [
+    0.48,
+    0.4
+  ],
+  "rasse-wasserhunde": [
+    0.35,
+    0.4
+  ],
+  "rasse-windhunde": [
+    0.45,
+    0.55
+  ],
+  "wolf-hero": [
+    0.6,
+    0.34
+  ],
+  "HeikoLoki": [
+    0.5,
+    0.45
+  ]
+}

@@ -1,0 +1,2945 @@
+{
+  "version": "30",
+  "datum": "26.10.2026",
+  "breeds": [
+    {
+      "id": "spitze",
+      "name": "Spitze & Urtyp-Hunde",
+      "beispielrassen": "Deutscher Spitz & Wolfsspitz, Eurasier, Samojede, Siberian Husky, Alaskan Malamute, Akita Inu, Shiba Inu, Finnischer Lapphund",
+      "beschreibung": "Urtümliche, eigenständige und oft sehr schöne Hunde. Genetisch stehen viele von ihnen den ursprünglichen Hundetypen nahe, entsprechend unabhängig ist ihr Charakter.",
+      "temperament": "Unabhängig, intelligent und manchmal distanziert gegenüber Fremden. Sehr loyal gegenüber ihrer Familie und oft sehr stolz.",
+      "haltung_pflege": "Brauchen viel Auslauf und Beschäftigung. Einige Rassen (z.B. Huskys) haben einen extrem hohen Bewegungsdrang und Fluchttrieb.",
+      "training": "Brauchen eine ruhige, konsequente und respektvolle Hand. Harte Methoden funktionieren hier nicht und zerstören das Vertrauen.",
+      "gesundheit": "Je nach Rasse unterschiedlich, z.B. Hüft- und Augenprobleme beim Husky, Lidfehlstellungen (Entropium) beim Chow-Chow. Nordische Rassen leiden bei Hitze stark.",
+      "geeignet_fuer": "Erfahrene Hundehalter, die einen eigenständigen, aber loyalen Begleiter suchen und viel Zeit für Auslauf haben.",
+      "haeufige_probleme": "Starker Fluchttrieb, schwieriger Rückruf, hoher Bewegungsbedarf, manchmal distanziert.",
+      "profil": {
+        "bewegungsbedarf": 4,
+        "raumbedarf": 4,
+        "familientauglichkeit": 2,
+        "sozialvertraeglichkeit": 3,
+        "erziehbarkeit": 2,
+        "selbststaendigkeit": 5,
+        "pflegeaufwand": 4,
+        "jagdtrieb": 3,
+        "anspruch": 4,
+        "haaren": 5
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "aktive-begleiter"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        },
+        {
+          "type": "bibliothek",
+          "id": "wolf-hund"
+        }
+      ],
+      "clan": "Die Ur-Wölfe",
+      "motto": "Am nächsten am Wolf.",
+      "erbe": "Genetisch gehören Husky, Malamute, Akita, Shiba und Chow-Chow zu den „basalen“ Rassen, die sich am wenigsten vom gemeinsamen Ursprung mit dem Wolf entfernt haben. Man merkt es an Eigenständigkeit, Fluchttrieb und am Heulen statt Bellen.",
+      "hue": 205,
+      "photo": "rasse-spitze",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "herdenschutz",
+      "name": "Herdenschutzhunde",
+      "focus": "88% 45%",
+      "clan": "Die Wächter der Herde",
+      "motto": "Entscheiden selbst, wer dazugehört.",
+      "hue": 55,
+      "erbe": "Vom Wolf geerbt: Wachsamkeit und Verteidigung der eigenen Gruppe. Jagdverhalten wurde stark zurückgezüchtet, denn sie wachsen mit Schafen oder Ziegen auf und behandeln die Herde wie ihre Familie, auch gegen Wölfe.",
+      "beispielrassen": "Pyrenäenberghund, Kuvasz, Maremmano-Abruzzese, Šarplaninac, Tornjak, Rumänischer Karpatenhund, Kangal",
+      "beschreibung": "Große, ruhige und sehr eigenständige Hunde, die seit Jahrhunderten Herden in Europas Bergen allein bewachen. Sie wurden gezüchtet, um ohne Menschen Entscheidungen zu treffen. Viele Hunde aus dem Auslandstierschutz, etwa aus Rumänien, haben Herdenschutzhunde in ihren Vorfahren.",
+      "temperament": "Gelassen, souverän und tief loyal zu ihrer Familie, gegenüber Fremden oft reserviert bis misstrauisch. Sie beobachten viel und handeln selbstständig, besonders nachts und an Reviergrenzen.",
+      "haltung_pflege": "Brauchen viel Platz und ein sicher eingezäuntes Grundstück, keine Stadtwohnung. Weniger Sport als Aufgabe: Überblick, Ruhe und ein Revier, das sie „verwalten“ dürfen. Dichtes Fell, im Fellwechsel viel Bürsten.",
+      "training": "Lernen schnell, sehen aber oft keinen Grund, ein Signal sofort auszuführen. Belohnungsbasiertes Training mit viel Geduld, früher Sozialisierung und sauberem Management (Zaun, Besuch planen) ist entscheidend. Druck führt zu Misstrauen.",
+      "gesundheit": "Hüft- und Ellenbogendysplasie, Magendrehung und Knochenkrebs kommen bei großen Rassen häufiger vor. Langsames Wachstum: im ersten Lebensjahr Gelenke schonen.",
+      "geeignet_fuer": "Erfahrene Halter mit Haus, großem Grundstück und ruhiger Umgebung, die einen eigenständigen Wächter möchten und mit nächtlichem Bellen leben können.",
+      "haeufige_probleme": "Bellen bei Nacht, Misstrauen gegenüber Besuch, kaum zuverlässiger Freilauf, starke Reaktion auf Eindringlinge. In vielen Wohngebieten schwer zu halten.",
+      "profil": {
+        "bewegungsbedarf": 3,
+        "raumbedarf": 5,
+        "familientauglichkeit": 3,
+        "sozialvertraeglichkeit": 1,
+        "erziehbarkeit": 1,
+        "selbststaendigkeit": 5,
+        "pflegeaufwand": 3,
+        "jagdtrieb": 2,
+        "anspruch": 5,
+        "haaren": 5
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "schutz-strassenhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "tierschutzhund"
+        },
+        {
+          "type": "bibliothek",
+          "id": "wolf-hund"
+        }
+      ],
+      "photo": "rasse-herdenschutz",
+      "credit": {
+        "text": "HeartSpoon, CC BY-SA 3.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Great_Pyrenees_Mountain_Dog.jpg"
+      }
+    },
+    {
+      "id": "huetehunde",
+      "name": "Hütehunde & Treibhunde",
+      "beispielrassen": "Border Collie, Australian Shepherd, Deutscher Schäferhund, Altdeutscher Hütehund, Belgischer Schäferhund (Malinois), Welsh Corgi, Shetland Sheepdog",
+      "beschreibung": "Hütehunde sind hochintelligente, arbeitsfreudige Hunde, die speziell gezüchtet wurden, um Herden zu hüten und zu treiben. Sie sind die Athleten unter den Hunden und brauchen viel geistige und körperliche Auslastung.",
+      "temperament": "Extrem aufmerksam, loyal, sensibel und lernbegierig. Sie binden sich sehr stark an ihre Bezugsperson und wollen ständig geistig gefordert werden. Sie sind sensibel und merken sofort, wenn etwas nicht stimmt.",
+      "haltung_pflege": "Sehr hoher Bewegungs- und Beschäftigungsbedarf. Ideal sind Agility, Obedience, Mantrailing oder echte Hütearbeit. Sie brauchen täglich mindestens 1,5–2 Stunden Auslauf plus geistige Arbeit.",
+      "training": "Höchst lernwillig und intelligent. Sie brauchen klare Strukturen und faires, konsequentes Training mit positiver Verstärkung. Impulskontrolle und vor allem Ruhe-Training sind besonders wichtig, denn viele Hütehunde können schlecht von selbst abschalten.",
+      "gesundheit": "Anfällig für Hüftdysplasie, Augenerkrankungen (z.B. Collie Eye Anomaly) und Epilepsie. Australian Shepherds, Collies und Shelties tragen häufig den MDR1-Defekt, der bestimmte Medikamente gefährlich macht. Ein Gentest ist sinnvoll, und dein Tierarzt sollte das Ergebnis kennen.",
+      "geeignet_fuer": "Sehr aktive Menschen oder Familien mit viel Zeit und Beschäftigungsmöglichkeiten. Perfekt für Sportler und Menschen, die Hunde sportlich fördern wollen.",
+      "haeufige_probleme": "Unterforderung führt zu Zerstörungswut und Verhaltensproblemen. Sie können Kinder oder andere Tiere „hüten“ (nacken). Sehr empfindlich gegenüber harter Erziehung.",
+      "profil": {
+        "bewegungsbedarf": 5,
+        "raumbedarf": 4,
+        "familientauglichkeit": 3,
+        "sozialvertraeglichkeit": 3,
+        "erziehbarkeit": 4,
+        "selbststaendigkeit": 2,
+        "pflegeaufwand": 3,
+        "jagdtrieb": 3,
+        "anspruch": 3.5,
+        "haaren": 4
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "aktive-begleiter"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        }
+      ],
+      "clan": "Die Strategen",
+      "motto": "Immer einen Zug voraus.",
+      "erbe": "Vom Wolf geerbt: die Jagdsequenz aus Orten, Fixieren, Anschleichen und Hetzen. Den letzten Teil, das Töten, hat die Zucht weitgehend entfernt. Übrig bleibt der intensive Blick, mit dem ein Border Collie Schafe lenkt.",
+      "hue": 150,
+      "photo": "rasse-huetehunde",
+      "credit": {
+        "text": "Heiko Baumheyer. Das ist Loki, ein Australian Shepherd",
+        "url": null
+      }
+    },
+    {
+      "id": "molosser",
+      "name": "Molosser & Sennenhunde",
+      "beispielrassen": "Rottweiler, Boxer, Deutsche Dogge, Leonberger, Hovawart, Berner Sennenhund, Großer Schweizer Sennenhund, Bordeauxdogge",
+      "beschreibung": "Kraftvolle, selbstbewusste und meist sehr familienbezogene Hunde. Dazu gehören die schweren Molosser und die Schweizer Sennenhunde, die als Hof-, Treib- und Zughunde arbeiteten. Sie vereinen Wachsamkeit mit einer tiefen Bindung an ihre Menschen.",
+      "temperament": "Ruhig und gelassen im Haus, aber wachsam und beschützend. Sehr kinderlieb, wenn richtig sozialisiert. Sie haben ein starkes Territorialverhalten und sind meist sehr loyal.",
+      "haltung_pflege": "Mittlerer bis hoher Bewegungsbedarf. Sie brauchen klare Regeln, verlässliche Routinen und faire Grenzen sowie viel Nähe zu ihrer Familie. Lange Alleinzeiten tun ihnen nicht gut.",
+      "training": "Früh mit Sozialisierung und Leinenführigkeit starten, solange der Hund noch klein ist. Sehr lernfähig, aber sensibel auf harte Methoden. Belohnungsbasiertes Training mit klaren, ruhig gesetzten Grenzen ist der Schlüssel.",
+      "gesundheit": "Große, schwere Hunde: Hüft- und Ellenbogendysplasie, Magendrehung und Herzerkrankungen kommen häufiger vor. Berner Sennenhunde haben eine vergleichsweise kurze Lebenserwartung, oft um 8 Jahre. Im Wachstum Gelenke schonen: kein Treppenmarathon, keine langen Läufe am Rad.",
+      "geeignet_fuer": "Halter mit Erfahrung oder guter Trainerbegleitung, die ruhig und konsequent bleiben und genug Platz haben. Gut für Familien mit älteren Kindern.",
+      "haeufige_probleme": "Ohne frühe Sozialisierung kann Wachsamkeit in Misstrauen gegenüber Fremden kippen. Große, kräftige Hunde sind an der Leine schwer zu halten, wenn Leinenführigkeit fehlt. Einzelne Rassen gelten in manchen Bundesländern als Listenhunde: Regeln vor der Anschaffung prüfen.",
+      "profil": {
+        "bewegungsbedarf": 3,
+        "raumbedarf": 4,
+        "familientauglichkeit": 4,
+        "sozialvertraeglichkeit": 3,
+        "erziehbarkeit": 3,
+        "selbststaendigkeit": 2,
+        "pflegeaufwand": 3,
+        "jagdtrieb": 2,
+        "anspruch": 4,
+        "haaren": 3
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "familienhunde"
+        },
+        {
+          "type": "rasse",
+          "id": "pinscher-schnauzer"
+        },
+        {
+          "type": "rasse",
+          "id": "herdenschutz"
+        }
+      ],
+      "clan": "Die Beschützer",
+      "motto": "Ruhig, bis es darauf ankommt.",
+      "erbe": "Vom Wolf geerbt: das Bewachen des eigenen Reviers und der eigenen Gruppe. Bei Molossern wurde diese Wachsamkeit verstärkt, die Jagdlust dagegen deutlich abgeschwächt.",
+      "hue": 20,
+      "photo": "rasse-molosser",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "pinscher-schnauzer",
+      "name": "Pinscher & Schnauzer",
+      "focus": "30% 45%",
+      "clan": "Die Hofwächter",
+      "motto": "Wachsam, schnell, mit Bart und Haltung.",
+      "hue": 260,
+      "erbe": "Vom Wolf geerbt: Wachsamkeit und schnelles Packen kleiner Beute. Auf deutschen Höfen jagten Pinscher und Schnauzer Ratten und meldeten Fremde.",
+      "beispielrassen": "Dobermann, Deutscher Pinscher, Zwergpinscher, Affenpinscher, Riesenschnauzer, Mittelschnauzer, Zwergschnauzer",
+      "beschreibung": "Eine sehr deutsche Gruppe: Pinscher und Schnauzer stammen von Hofhunden ab, die Ratten jagten und den Hof bewachten. Heute reicht die Spanne vom kleinen Affenpinscher bis zum kraftvollen Dobermann und Riesenschnauzer.",
+      "temperament": "Aufmerksam, temperamentvoll, klug und sehr auf ihre Familie bezogen. Wachsam gegenüber Fremden, mit eigenem Kopf und viel Energie.",
+      "haltung_pflege": "Mittlerer bis hoher Bewegungsbedarf, dazu Kopfarbeit wie Nasenarbeit oder Unterordnung. Schnauzer haben Rauhaar, das regelmäßig getrimmt werden muss. Pinscher sind kurzhaarig und pflegeleicht.",
+      "training": "Lernen schnell und arbeiten gern mit. Klare Routinen, faire Grenzen und viel Belohnung. Impulskontrolle und Ruhe-Training sind wichtig, damit Wachsamkeit nicht in Dauerbellen umschlägt.",
+      "gesundheit": "Dobermänner sind häufig von dilatativer Kardiomyopathie (Herzmuskelerkrankung) betroffen, regelmäßige Herzuntersuchungen sind ratsam. Zwergschnauzer neigen zu Bauchspeicheldrüsenentzündung. Ohren und Ruten zu kupieren ist in Deutschland verboten.",
+      "geeignet_fuer": "Aktive Menschen, die einen wachen, klugen Begleiter mit Charakter suchen. Große Rassen eher für Erfahrene, Zwergschnauzer und Zwergpinscher auch für engagierte Einsteiger.",
+      "haeufige_probleme": "Viel Melden und Bellen, Jagdtrieb auf Kleintiere, Unruhe bei zu wenig Auslastung oder zu wenig Ruhe.",
+      "profil": {
+        "bewegungsbedarf": 4,
+        "raumbedarf": 3,
+        "familientauglichkeit": 3,
+        "sozialvertraeglichkeit": 3,
+        "erziehbarkeit": 3,
+        "selbststaendigkeit": 3,
+        "pflegeaufwand": 3,
+        "jagdtrieb": 3,
+        "anspruch": 3.5,
+        "haaren": 2
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "allergikerfreundlich"
+        },
+        {
+          "type": "bibliothek",
+          "id": "ruhe-auslastung"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        }
+      ],
+      "photo": "rasse-pinscher-schnauzer",
+      "credit": {
+        "text": "Petrucha, CC BY-SA 3.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Devil_Denny_Goldest_Danubius.jpg"
+      }
+    },
+    {
+      "id": "terrier",
+      "name": "Terrier",
+      "beispielrassen": "Jack Russell Terrier, Parson Russell Terrier, Deutscher Jagdterrier, West Highland White Terrier, Airedale Terrier, Border Terrier, Staffordshire Bullterrier",
+      "beschreibung": "Mutige, selbstbewusste und oft sehr eigenwillige Hunde mit starkem Jagdtrieb. Ursprünglich für die Erd- und Baujagd gezüchtet. Sie sind kleine Kämpfer mit großem Herzen.",
+      "temperament": "Tapfer, lebhaft und mit viel eigenem Kopf. Sie entscheiden gern selbst und brauchen deshalb klare, verlässliche Regeln und viel Motivation im Training.",
+      "haltung_pflege": "Brauchen viel Beschäftigung und Auslauf. Der Jagdtrieb sollte durch Such- und Apportierspiele kanalisiert werden. Sie sind meist sehr lebendig und verspielt.",
+      "training": "Brauchen konsequente, aber liebevolle Erziehung. Positive Verstärkung funktioniert deutlich besser als Strenge. Frühe Sozialisierung ist extrem wichtig.",
+      "gesundheit": "Anfällig für Patellaluxation, Augenprobleme und Hauterkrankungen.",
+      "geeignet_fuer": "Aktive Menschen, die klare Regeln setzen können und den eigenwilligen Charakter schätzen.",
+      "haeufige_probleme": "Starker Jagdtrieb (bewegte Reize sind schwer zu ignorieren), Konflikte mit anderen Hunden, viel Bellen.",
+      "profil": {
+        "bewegungsbedarf": 4,
+        "raumbedarf": 2,
+        "familientauglichkeit": 3,
+        "sozialvertraeglichkeit": 2,
+        "erziehbarkeit": 2,
+        "selbststaendigkeit": 4,
+        "pflegeaufwand": 2,
+        "jagdtrieb": 5,
+        "anspruch": 3.5,
+        "haaren": 2.5
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "aktive-begleiter"
+        },
+        {
+          "type": "bibliothek",
+          "id": "leinen-halsband"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        }
+      ],
+      "clan": "Die Draufgänger",
+      "motto": "Klein im Körper, groß im Mut.",
+      "erbe": "Vom Wolf geerbt: das Packen und Festhalten aus der Jagdsequenz, besonders stark betont. Deshalb starten Terrier so schnell durch, wenn sich etwas bewegt.",
+      "hue": 0,
+      "photo": "rasse-terrier",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "dackel",
+      "name": "Dachshunde",
+      "beispielrassen": "Kaninchendackel, Zwergdackel, Standarddackel – jeweils in Kurzhaar, Langhaar und Rauhaar",
+      "beschreibung": "Mutige, eigenständige und oft sehr charmante kleine Hunde mit ursprünglich starker Baujagd-Veranlagung. Ihr langer Rücken ist ein Markenzeichen, das besondere Aufmerksamkeit erfordert.",
+      "temperament": "Tapfer, neugierig und manchmal etwas stur. Sehr menschenbezogen und anhänglich. Sie sind kleine Persönlichkeiten mit großem Selbstbewusstsein.",
+      "haltung_pflege": "Mittlerer Bewegungsbedarf. Wichtig ist, dass sie nicht zu viel springen oder Treppen steigen, um den Rücken zu schonen. Sie sind anpassungsfähig.",
+      "training": "Brauchen klare, geduldige Erziehung mit viel Belohnung. Der Jagdtrieb ist stark ausgeprägt, deshalb ist Rückruftraining an der Schleppleine besonders wichtig.",
+      "gesundheit": "Sehr anfällig für Bandscheibenvorfälle (Dackellähmung). Achte auf Übergewicht und rückenschonende Haltung.",
+      "geeignet_fuer": "Menschen, die eine kleine, charmante und wachsame Rasse suchen und den eigenständigen Charakter mögen.",
+      "haeufige_probleme": "Rückenprobleme, starker Jagdtrieb, Neigung zu Übergewicht, manchmal stur.",
+      "profil": {
+        "bewegungsbedarf": 3,
+        "raumbedarf": 2,
+        "familientauglichkeit": 3,
+        "sozialvertraeglichkeit": 3,
+        "erziehbarkeit": 2,
+        "selbststaendigkeit": 4,
+        "pflegeaufwand": 2,
+        "jagdtrieb": 4,
+        "anspruch": 3,
+        "haaren": 3
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "wohnungshunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "gesundheit-pflege"
+        }
+      ],
+      "clan": "Die Erdforscher",
+      "motto": "Wo andere aufhören, fangen sie an.",
+      "erbe": "Vom Wolf geerbt: Mut und Ausdauer bei der Jagd, gebündelt für die Arbeit unter der Erde im Fuchs- und Dachsbau. Ihr lauter Spurlaut half dem Jäger, sie im Bau zu orten.",
+      "hue": 35,
+      "photo": "rasse-dackel",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "laufhunde",
+      "name": "Laufhunde & Schweißhunde",
+      "beispielrassen": "Beagle, Basset Hound, Deutsche Bracke, Dalmatiner, Bayerischer Gebirgsschweißhund, Hannoverscher Schweißhund, Bloodhound",
+      "beschreibung": "Hunde mit exzellentem Geruchssinn, die ursprünglich für die Jagd gezüchtet wurden. Sie folgen gerne ihrer Nase und sind sehr ausdauernd.",
+      "temperament": "Freundlich, ausdauernd und oft sehr anhänglich. Sie sind meist sehr sozial und menschenbezogen.",
+      "haltung_pflege": "Sehr hoher Bewegungsbedarf. Nasenarbeit (Mantrailing, Fährtenarbeit, Suchspiele) ist absolut ideal für sie.",
+      "training": "Der Rückruf ist bei vielen Laufhunden eine große Herausforderung, weil sie der Nase folgen. Geduld und konsequentes Training sind nötig.",
+      "gesundheit": "Je nach Rasse unterschiedlich – häufig Ohrprobleme bei Hängeohren, Übergewichtstendenz.",
+      "geeignet_fuer": "Menschen, die viel Zeit für lange Spaziergänge und Nasenarbeit haben.",
+      "haeufige_probleme": "Schwieriger Rückruf, starker Jagdtrieb, Neigung zu Übergewicht, manchmal stur.",
+      "profil": {
+        "bewegungsbedarf": 4,
+        "raumbedarf": 3,
+        "familientauglichkeit": 4,
+        "sozialvertraeglichkeit": 4,
+        "erziehbarkeit": 2,
+        "selbststaendigkeit": 4,
+        "pflegeaufwand": 2,
+        "jagdtrieb": 5,
+        "anspruch": 3,
+        "haaren": 3
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "familienhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "leinen-halsband"
+        }
+      ],
+      "clan": "Die Spurenleser",
+      "motto": "Die Nase führt, der Rest folgt.",
+      "erbe": "Vom Wolf geerbt: das ausdauernde Verfolgen einer Fährte über Kilometer. Viele Laufhunde geben dabei Laut, wie ein Rudel, das sich auf der Jagd verständigt.",
+      "hue": 45,
+      "photo": "rasse-laufhunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "vorstehhunde",
+      "name": "Vorstehhunde",
+      "beispielrassen": "Deutsch Kurzhaar, Deutsch Drahthaar, Weimaraner, Kleiner & Großer Münsterländer, Magyar Vizsla, Epagneul Breton, Pointer",
+      "beschreibung": "Edle, sensible und hoch leistungsbereite Hunde, die Wild anzeigen (vorstehen) und apportieren. Sehr elegante und sportliche Hunde.",
+      "temperament": "Sensibel, familienbezogen und sehr arbeitswillig. Sie brauchen eine enge Bindung zu ihrem Menschen und wollen gebraucht werden.",
+      "haltung_pflege": "Hoher Bewegungs- und Beschäftigungsbedarf. Jagdliche Ausbildung, Dummy-Training oder Apportierspiele sind perfekt.",
+      "training": "Sehr lernfreudig, aber sensibel. Harte Methoden können zu Unsicherheit führen. Positive, abwechslungsreiche Arbeit ist ideal.",
+      "gesundheit": "Anfällig für Hüftdysplasie, Augenprobleme und Ohrentzündungen.",
+      "geeignet_fuer": "Aktive Menschen mit jagdlichem Interesse oder viel Zeit für Dummy-Arbeit und Nasenarbeit. Viele Züchter dieser Rassen geben Welpen bevorzugt an Jäger ab.",
+      "haeufige_probleme": "Hoher Bewegungsdrang, sehr sensibel auf falsche Erziehung, brauchen viel geistige Arbeit.",
+      "profil": {
+        "bewegungsbedarf": 5,
+        "raumbedarf": 4,
+        "familientauglichkeit": 4,
+        "sozialvertraeglichkeit": 4,
+        "erziehbarkeit": 4,
+        "selbststaendigkeit": 2,
+        "pflegeaufwand": 2,
+        "jagdtrieb": 5,
+        "anspruch": 3.5,
+        "haaren": 3
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "aktive-begleiter"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        }
+      ],
+      "clan": "Die Partner der Jagd",
+      "motto": "Erstarren, anzeigen, auf dich warten.",
+      "erbe": "Vom Wolf geerbt: der kurze Moment des Erstarrens vor dem Sprung auf die Beute. Die Zucht hat diesen Moment zum „Vorstehen“ verlängert, damit der Jäger aufschließen kann.",
+      "hue": 95,
+      "photo": "rasse-vorstehhunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "retriever",
+      "name": "Retriever & Stöberhunde",
+      "beispielrassen": "Labrador Retriever, Golden Retriever, Flat Coated Retriever, Nova Scotia Duck Tolling Retriever, Cocker Spaniel, English Springer Spaniel, Deutscher Wachtelhund",
+      "beschreibung": "Sehr familienfreundliche, gelehrige und meist extrem menschenbezogene Hunde. Sie wurden ursprünglich als Apportierhunde gezüchtet und sind oft sehr wasserfreudig.",
+      "temperament": "Freundlich, ausgeglichen und sehr bindungsfreudig. Sie wollen ihren Menschen gefallen und sind meist sehr kinderfreundlich.",
+      "haltung_pflege": "Mittlerer bis hoher Bewegungsbedarf. Apportieren, Wasserspiele und Suchspiele liegen ihnen besonders gut.",
+      "training": "Sehr leicht erziehbar und lernwillig. Positive Verstärkung funktioniert hervorragend. Sie sind sehr kooperativ.",
+      "gesundheit": "Anfällig für Hüftdysplasie, Augenprobleme und Ohrentzündungen (besonders bei Spaniels mit Hängeohren).",
+      "geeignet_fuer": "Familien, Einsteiger und Menschen, die einen freundlichen, gelehrigen und menschenbezogenen Hund suchen.",
+      "haeufige_probleme": "Neigung zu Übergewicht, Ohrprobleme bei Spaniels, manchmal zu anhänglich.",
+      "profil": {
+        "bewegungsbedarf": 4,
+        "raumbedarf": 3,
+        "familientauglichkeit": 5,
+        "sozialvertraeglichkeit": 5,
+        "erziehbarkeit": 5,
+        "selbststaendigkeit": 1,
+        "pflegeaufwand": 3,
+        "jagdtrieb": 3,
+        "anspruch": 1.5,
+        "haaren": 5
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "familienhunde"
+        },
+        {
+          "type": "lifestyle",
+          "id": "anfaengerhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "welpenerziehung"
+        }
+      ],
+      "clan": "Die Teamplayer",
+      "motto": "Bringen alles zurück, am liebsten dir.",
+      "erbe": "Vom Wolf geerbt: Beute im Maul tragen, wie Wölfe Futter zum Bau bringen. Retriever tragen dabei besonders sanft („weiches Maul“) und bringen es zum Menschen statt zum Rudel.",
+      "hue": 45,
+      "photo": "rasse-retriever",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "wasserhunde",
+      "name": "Wasserhunde",
+      "focus": "35% 45%",
+      "clan": "Die Lockenköpfe",
+      "motto": "Kein Wasser zu kalt, keine Pfütze zu tief.",
+      "hue": 190,
+      "erbe": "Vom Wolf geerbt: Beute zur Gruppe tragen. Wasserhunde holten für Fischer Netze, Leinen und Wasservögel aus dem Wasser. Ihr gelocktes Fell hält sie dabei warm.",
+      "beispielrassen": "Lagotto Romagnolo, Portugiesischer Wasserhund, Spanischer Wasserhund, Barbet, Pudel (Groß- und Königspudel)",
+      "beschreibung": "Fröhliche, wasserverliebte Arbeitshunde aus Südeuropa und Frankreich mit dichtem Lockenfell. Der Lagotto Romagnolo ist zudem der einzige anerkannte Trüffelsuchhund.",
+      "temperament": "Verspielt, lernfreudig, menschenbezogen und meist sehr freundlich zu anderen Hunden. Aufmerksam, aber selten aggressiv.",
+      "haltung_pflege": "Mittlerer bis hoher Bewegungsbedarf, am liebsten mit Wasser, Apportier- und Nasenarbeit. Das Lockenfell verliert kaum Haare, wächst aber ständig: alle 6–8 Wochen scheren und regelmäßig durchkämmen.",
+      "training": "Sehr gut erziehbar mit positiver Verstärkung. Nasenarbeit wie Trüffel- oder Futtersuche ist ideale Auslastung.",
+      "gesundheit": "Ohrentzündungen durch Wasser und behaarte Ohren, Hüftdysplasie. Beim Lagotto gibt es erbliche Epilepsie- und Speicherkrankheiten, auf Gentests der Elterntiere achten.",
+      "geeignet_fuer": "Aktive Familien und Einsteiger, die Freude an Fellpflege haben, und Menschen mit leichter Hundehaarallergie nach vorherigem Test.",
+      "haeufige_probleme": "Hoher Pflegeaufwand, bei Unterforderung Buddeln und Stöbern, Ohrenprobleme.",
+      "profil": {
+        "bewegungsbedarf": 4,
+        "raumbedarf": 3,
+        "familientauglichkeit": 4,
+        "sozialvertraeglichkeit": 4,
+        "erziehbarkeit": 4,
+        "selbststaendigkeit": 2,
+        "pflegeaufwand": 5,
+        "jagdtrieb": 3,
+        "anspruch": 2,
+        "haaren": 1
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "allergikerfreundlich"
+        },
+        {
+          "type": "lifestyle",
+          "id": "familienhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "gesundheit-pflege"
+        }
+      ],
+      "photo": "rasse-wasserhunde",
+      "credit": {
+        "text": "Pleple2000, CC BY-SA 3.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Lagotto_romagnolo_322.jpg"
+      }
+    },
+    {
+      "id": "gesellschaftshunde",
+      "name": "Gesellschaftshunde",
+      "beispielrassen": "Pudel (Toy, Zwerg), Bichon Frisé, Bologneser, Malteser, Havaneser, Cavalier King Charles Spaniel, Mops, Französische Bulldogge, Chihuahua",
+      "beschreibung": "Kleine bis mittelgroße, meist sehr menschenbezogene und anhängliche Hunde. Sie wurden hauptsächlich als Begleithunde gezüchtet und sind oft sehr anhänglich.",
+      "temperament": "Freundlich, anhänglich und oft etwas wachsam. Sie bleiben gerne in der Nähe ihrer Menschen und wollen geliebt werden.",
+      "haltung_pflege": "Weniger Bewegungsbedarf als große Rassen. Wichtig ist die enge Bindung, Beschäftigung und die Sozialisierung.",
+      "training": "Leicht erziehbar. Alleinbleiben in kleinen Schritten üben, denn viele dieser Rassen sind sehr auf ihre Menschen fixiert. Bellen lieber über Ruhe-Training und Beschäftigung lösen als über Verbote.",
+      "gesundheit": "Je nach Rasse unterschiedlich: Patellaluxation und Zahnprobleme bei kleinen Rassen. Kurznasige Rassen wie der Mops leiden oft unter Atemnot (BOAS) und Hitze. Cavaliere neigen zu Herzklappenerkrankungen. Auf gesundheitsorientierte Zucht mit Nachweisen achten.",
+      "geeignet_fuer": "Menschen, die einen anhänglichen, aber nicht zu großen Hund suchen und viel Zeit zu Hause verbringen.",
+      "haeufige_probleme": "Übermäßiges Bellen, Trennungsangst, Zahnprobleme, manchmal zu anhänglich.",
+      "profil": {
+        "bewegungsbedarf": 1,
+        "raumbedarf": 1,
+        "familientauglichkeit": 4,
+        "sozialvertraeglichkeit": 3,
+        "erziehbarkeit": 4,
+        "selbststaendigkeit": 2,
+        "pflegeaufwand": 3,
+        "jagdtrieb": 1,
+        "anspruch": 1.5,
+        "haaren": 2.5
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "wohnungshunde"
+        },
+        {
+          "type": "lifestyle",
+          "id": "anfaengerhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        }
+      ],
+      "clan": "Die Seelentröster",
+      "motto": "Nähe ist ihr Job.",
+      "erbe": "Vom Wolf geerbt: das Bedürfnis nach Bindung an die eigene Gruppe. Gezüchtet wurden welpenhafte Merkmale wie runder Kopf, große Augen und ein lebenslanger Wunsch nach Nähe.",
+      "hue": 330,
+      "photo": "rasse-gesellschaftshunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "windhunde",
+      "name": "Windhunde",
+      "beispielrassen": "Greyhound, Whippet, Galgo Español, Barsoi, Magyar Agár, Saluki, Irish Wolfhound",
+      "beschreibung": "Edle, schnelle und meist sehr ruhige Hunde mit starkem Jagdinstinkt. Sie sind die Sprinter unter den Hunden und brauchen die Möglichkeit zum Laufen.",
+      "temperament": "Ruhig und gelassen im Haus, explosiv und jagdlich draußen. Sehr anhänglich und sensibel gegenüber ihrer Familie.",
+      "haltung_pflege": "Brauchen regelmäßig die Möglichkeit zum schnellen Laufen, am besten auf einem eingezäunten Gelände. Im Haus sind sie meist sehr ruhig. Wenig Unterwolle: im Winter oft ein Mantel nötig. Ein Halsband mit Zugstopp (richtig eingestellt) oder ein Sicherheitsgeschirr verhindert das Herausschlüpfen.",
+      "training": "Der Rückruf ist bei den meisten Windhunden eine große Herausforderung. Sie brauchen viel Geduld und positive Methoden.",
+      "gesundheit": "Anfällig für Magendrehung, einige Rassen für Augenprobleme und empfindliche Haut.",
+      "geeignet_fuer": "Menschen, die einen ruhigen, aber sportlichen Hund suchen und sichere Freilaufflächen haben. Viele Galgos und Greyhounds aus dem Tierschutz (Spanien, Irland) suchen ein Zuhause und sind im Haus erstaunlich gelassen.",
+      "haeufige_probleme": "Schwieriger Rückruf, starker Fluchttrieb, Magendrehung, sehr jagdlich.",
+      "profil": {
+        "bewegungsbedarf": 3,
+        "raumbedarf": 3,
+        "familientauglichkeit": 3,
+        "sozialvertraeglichkeit": 3,
+        "erziehbarkeit": 2,
+        "selbststaendigkeit": 4,
+        "pflegeaufwand": 1,
+        "jagdtrieb": 5,
+        "anspruch": 2.5,
+        "haaren": 2
+      },
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "ruhige-begleiter"
+        },
+        {
+          "type": "bibliothek",
+          "id": "leinen-halsband"
+        }
+      ],
+      "clan": "Die Sprinter",
+      "motto": "Auf dem Sofa Ruhe, auf dem Feld ein Pfeil.",
+      "erbe": "Vom Wolf geerbt: die Sichtjagd. Windhunde erfassen Bewegung auf große Distanz mit den Augen und hetzen im Sprint, statt einer Spur mit der Nase zu folgen.",
+      "hue": 185,
+      "photo": "rasse-windhunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    }
+  ],
+  "lifestyle": [
+    {
+      "id": "familienhunde",
+      "name": "Familienhunde",
+      "beschreibung": "Hunde, die für ein Zuhause mit Kindern gemacht sind: geduldig, kinderlieb und robust genug für einen turbulenten Familienalltag. Diese Kategorie ist keine feste Rasse, sondern ein Auswahlkriterium – gutmütiges Wesen steht klar vor Aussehen.",
+      "typische_rassen": "Labrador Retriever, Golden Retriever, Berner Sennenhund, Leonberger, Lagotto Romagnolo, Beagle, Eurasier.",
+      "warum_passend": "Diese Rassen wurden entweder als Familienbegleiter gezüchtet oder haben ein sehr stabiles, geduldiges Nervenkostüm. Sie stecken Trubel, Lärm und ungeschickte Kinderhände in der Regel gelassen weg.",
+      "haltung_tipps": "Auch der geduldigste Hund braucht Rückzugsorte. Ein eigener Platz, an dem Kinder ihn nicht stören dürfen, ist Pflicht. Kinder sollten früh lernen, wie man respektvoll mit Hunden umgeht – Hund-Kind-Kontakt nie unbeaufsichtigt lassen.",
+      "worauf_achten": "Größe und Kraft des Hundes im Verhältnis zum Alter der Kinder mitdenken. Auch 'kinderliebe' Rassen brauchen eine solide Grunderziehung und ausreichend Auslastung, sonst wird selbst der gutmütigste Hund irgendwann gestresst.",
+      "geeignet_fuer": "Familien mit Kindern jeden Alters, die einen verlässlichen, ausgeglichenen Begleiter suchen und Zeit für Erziehung und Auslastung investieren.",
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "retriever"
+        },
+        {
+          "type": "rasse",
+          "id": "molosser"
+        },
+        {
+          "type": "bibliothek",
+          "id": "welpenerziehung"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kosten-pflichten"
+        },
+        {
+          "type": "rasse",
+          "id": "wasserhunde"
+        }
+      ],
+      "photo": "lifestyle-familienhunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "wohnungshunde",
+      "name": "Wohnungshunde",
+      "beschreibung": "Ruhige, anpassungsfähige Rassen mit moderatem Bewegungsdrang, die auch ohne Garten glücklich sind – solange sie regelmäßig rauskommen. Ideal für Stadtwohnungen.",
+      "typische_rassen": "Französische Bulldogge, Cavalier King Charles Spaniel, Mops, Malteser, Havaneser, Bichon Frisé.",
+      "warum_passend": "Geringer bis mittlerer Bewegungsbedarf, leises Wesen und kompakte Größe machen diese Rassen stressfrei für das Leben auf begrenztem Raum – solange geistige Beschäftigung nicht zu kurz kommt.",
+      "haltung_tipps": "Trotz weniger Auslauf brauchen Wohnungshunde tägliche Spaziergänge und Kopfarbeit (Schnüffelspiele, Intelligenzspielzeug), sonst entsteht Langeweile und daraus Verhaltensprobleme.",
+      "worauf_achten": "Einige beliebte Wohnungsrassen (z.B. Möpse, Französische Bulldoggen) sind brachyzephal – die kurze Nase kann zu Atemproblemen führen. Auf seriöse Zucht und angemessene Belastung bei Hitze achten.",
+      "geeignet_fuer": "Stadtbewohner ohne Garten, die trotzdem täglich mehrmals rausgehen können und einen ruhigen Mitbewohner suchen.",
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "gesellschaftshunde"
+        },
+        {
+          "type": "rasse",
+          "id": "dackel"
+        },
+        {
+          "type": "bibliothek",
+          "id": "gesundheit-pflege"
+        },
+        {
+          "type": "bibliothek",
+          "id": "alleinbleiben"
+        },
+        {
+          "type": "bibliothek",
+          "id": "hitze-qualzucht"
+        }
+      ],
+      "photo": "lifestyle-wohnungshunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "anfaengerhunde",
+      "name": "Anfängerhunde",
+      "beschreibung": "Rassen mit ausgeglichenem Wesen, hoher Lernbereitschaft und verzeihendem Charakter – ideal, wenn Erziehungsfehler noch passieren dürfen, ohne dass gleich Probleme entstehen.",
+      "typische_rassen": "Labrador Retriever, Golden Retriever, Pudel, Lagotto Romagnolo, Bologneser, Eurasier, Zwergschnauzer.",
+      "warum_passend": "Diese Rassen sind kooperativ, menschenbezogen und reagieren sehr gut auf positive Verstärkung. Kleine Trainingsfehler verzeihen sie eher als sehr eigenständige Rassen.",
+      "haltung_tipps": "Auch 'einfache' Rassen ersetzen keine Erziehung – ein guter Start mit Welpenschule oder Hundeschule zahlt sich langfristig aus. Konsequenz von Anfang an ist wichtiger als Strenge.",
+      "worauf_achten": "'Anfängerfreundlich' heißt nicht 'anspruchslos'. Diese Rassen brauchen trotzdem tägliche Auslastung, Struktur und soziale Kontakte – sonst entwickeln auch sie unerwünschtes Verhalten.",
+      "geeignet_fuer": "Menschen, die zum ersten Mal einen Hund halten und einen kooperativen, gut lenkbaren Begleiter für den Einstieg suchen.",
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "retriever"
+        },
+        {
+          "type": "rasse",
+          "id": "gesellschaftshunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        },
+        {
+          "type": "bibliothek",
+          "id": "clickertraining"
+        }
+      ],
+      "photo": "lifestyle-anfaengerhunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "aktive-begleiter",
+      "name": "Aktive Begleiter & Sporthunde",
+      "beschreibung": "Für Menschen, die täglich laufen, radeln oder Hundesport betreiben wollen. Diese Rassen brauchen deutlich mehr als den klassischen Gassi-Spaziergang.",
+      "typische_rassen": "Australian Shepherd, Border Collie, Magyar Vizsla, Deutsch Kurzhaar, Dobermann, Jack Russell Terrier, Siberian Husky.",
+      "warum_passend": "Hoher angeborener Bewegungs- und Beschäftigungsdrang macht diese Rassen zu idealen Partnern für Joggen, Radfahren, Agility, Dogscooting oder Fährtenarbeit.",
+      "haltung_tipps": "Mentale Auslastung ist genauso wichtig wie körperliche – reine körperliche Auspowerung ohne Kopfarbeit kann Hunde sogar noch unruhiger machen statt sie zu erschöpfen.",
+      "worauf_achten": "Unterforderung ist das Hauptproblem bei diesen Rassen: Sie äußert sich oft in Zerstörungswut, übermäßigem Bellen oder Nervosität. Vor der Anschaffung ehrlich prüfen, ob der eigene Alltag das Bewegungspensum wirklich hergibt.",
+      "geeignet_fuer": "Sportlich aktive Menschen mit viel Zeit im Freien, idealerweise mit Interesse an Hundesport oder Wander- und Lauftouren.",
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "huetehunde"
+        },
+        {
+          "type": "rasse",
+          "id": "vorstehhunde"
+        },
+        {
+          "type": "rasse",
+          "id": "terrier"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        },
+        {
+          "type": "bibliothek",
+          "id": "ruhe-auslastung"
+        },
+        {
+          "type": "rasse",
+          "id": "pinscher-schnauzer"
+        }
+      ],
+      "photo": "lifestyle-aktive-begleiter",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "ruhige-begleiter",
+      "name": "Ruhige Begleiter",
+      "beschreibung": "Gemütliche, entspannte Rassen mit niedrigem bis moderatem Energielevel – gute Begleiter für ein ruhigeres Zuhause oder ältere Menschen.",
+      "typische_rassen": "Basset Hound, Bulldogge, Greyhound (ausgewachsen), Neufundländer, Bernhardiner, Mops.",
+      "warum_passend": "Viele dieser Rassen sind trotz ihrer Größe überraschend genügsam im Bewegungsbedarf und verbringen einen Großteil des Tages entspannt – ideal für ein ruhigeres Lebenstempo.",
+      "haltung_tipps": "'Ruhig' bedeutet nicht 'bewegungslos' – auch gemütliche Rassen brauchen tägliche, moderate Spaziergänge, um Übergewicht und Gelenkproblemen vorzubeugen.",
+      "worauf_achten": "Einige ruhige Rassen neigen zu Übergewicht, wenn die Bewegung zu kurz kommt. Futtermenge und Auslauf im Blick behalten, besonders bei großen, schweren Rassen mit Gelenkbelastung.",
+      "geeignet_fuer": "Menschen mit ruhigerem Lebensstil, ältere Hundehalter oder alle, die einen entspannten Sofa-Begleiter mit moderatem Auslauf suchen.",
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "windhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "gesundheit-pflege"
+        }
+      ],
+      "photo": "lifestyle-ruhige-begleiter",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "allergikerfreundlich",
+      "name": "Allergikerfreundliche Hunde",
+      "beschreibung": "Rassen mit wenig oder keinem Fellwechsel, die weniger Hautschuppen und Allergene verteilen. Wichtig: 'Hypoallergen' bedeutet nicht 'allergiefrei' – individuelle Verträglichkeit sollte vorab getestet werden.",
+      "typische_rassen": "Pudel, Lagotto Romagnolo, Portugiesischer Wasserhund, Bichon Frisé, Schnauzer, Malteser.",
+      "warum_passend": "Diese Rassen haben Fell statt Unterwolle oder verlieren kaum Haare, wodurch weniger Hautschuppen (das eigentliche Allergen) in der Wohnung verteilt werden.",
+      "haltung_tipps": "Regelmäßiges, oft aufwändigeres Fellpflege-Regime ist typisch für diese Rassen (häufiges Trimmen oder Scheren). Das sollte bei der Zeit- und Kostenplanung mit eingerechnet werden.",
+      "worauf_achten": "Vor der Anschaffung unbedingt längeren Kontakt mit der jeweiligen Rasse suchen (z.B. bei einem Züchter verbringen), um die individuelle Allergiereaktion zu testen – Allergien sind sehr person- und rassenspezifisch.",
+      "geeignet_fuer": "Menschen mit leichten bis moderaten Hundehaarallergien, die vorab ihre persönliche Verträglichkeit mit der jeweiligen Rasse geprüft haben.",
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "wasserhunde"
+        },
+        {
+          "type": "rasse",
+          "id": "pinscher-schnauzer"
+        },
+        {
+          "type": "rasse",
+          "id": "gesellschaftshunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "gesundheit-pflege"
+        }
+      ],
+      "photo": "lifestyle-allergikerfreundlich",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "schutz-strassenhunde",
+      "name": "Schutz- & Straßenhunde",
+      "beschreibung": "Hunde aus dem Tierschutz oder von der Straße sind keine Rasse, sondern eine sehr gemischte Gruppe: von reinrassigen Abgabehunden bis zu Straßenmischlingen aus dem Ausland. Sie verdienen eine eigene Kategorie, weil Herkunft und Vorgeschichte die Haltung stärker prägen als reine Rassemerkmale.",
+      "typische_rassen": "Keine feste Rasse – meist Mischlinge unterschiedlichster Herkunft, häufig mit Merkmalen von Hütehunden, Windhunden oder Herdenschutzhunden, je nach Herkunftsregion (z.B. Rumänien, Spanien, Griechenland).",
+      "warum_passend": "Diese Hunde bringen oft eine ganz eigene Widerstandsfähigkeit und Genügsamkeit mit, brauchen aber häufig mehr Geduld beim Vertrauensaufbau, da viele wenig oder negative Erfahrungen mit Menschen gemacht haben.",
+      "haltung_tipps": "Ruhiger, strukturierter Alltag mit klaren Routinen hilft beim Ankommen. Eingewöhnungszeit von mehreren Monaten einplanen, bevor man das 'wahre' Wesen des Hundes sicher einschätzen kann. Enge Zusammenarbeit mit der Vermittlungsstelle oder einem Trainer mit Tierschutzerfahrung ist sehr hilfreich.",
+      "worauf_achten": "Gesundheits- und Verhaltenscheck vor der Übernahme ernst nehmen – unbekannte Vorgeschichte kann unentdeckte Traumata, Krankheiten oder Ängste bedeuten. Bei Auslandstierschutz auf seriöse, transparente Vermittlungsorganisationen achten und Formalitäten (Einreisebestimmungen, Impfstatus) vorab klären.",
+      "geeignet_fuer": "Erfahrene oder sehr geduldige Halter, die Zeit für einen behutsamen Vertrauensaufbau mitbringen und mit Unsicherheiten in der Vorgeschichte gelassen umgehen können.",
+      "verwandte": [
+        {
+          "type": "bibliothek",
+          "id": "tierschutzhund"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        },
+        {
+          "type": "bibliothek",
+          "id": "welpenerziehung"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        },
+        {
+          "type": "rasse",
+          "id": "herdenschutz"
+        },
+        {
+          "type": "rasse",
+          "id": "windhunde"
+        }
+      ],
+      "photo": "lifestyle-schutz-strassenhunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    }
+  ],
+  "library": [
+    {
+      "id": "vor-dem-hund",
+      "title": "Bevor ein Hund einzieht",
+      "tag": "Vor dem Hund",
+      "summary": "Der ehrliche Check: Passt ein Hund wirklich in dein Leben, jetzt und in 10 Jahren?",
+      "ueberblick": "Dein Hund wartet auf dich, richtet seinen Tag nach dir und bleibt dir treu, ein Leben lang. Er kann sich nicht aussuchen, bei wem er lebt, und er kann nicht gehen, wenn es ihm schlecht geht. Diese Verantwortung trägst du. Darum prüfe vorher ehrlich, ob ein Hund wirklich in dein Leben passt, jetzt und in 10 bis 15 Jahren. Viele Hunde landen im Tierheim, weil die Entscheidung zu schnell war: zu wenig Zeit, zu hohe Kosten, Ärger mit dem Vermieter. Nimm dir für diese Fragen Zeit, am besten mit allen, die bei dir wohnen.",
+      "varianten": [
+        {
+          "name": "Welpe",
+          "pro": "Du prägst ihn von Anfang an",
+          "contra": "Viel Zeit in den ersten Monaten: Stubenreinheit, Sozialisierung, kurze Alleinzeiten"
+        },
+        {
+          "name": "Erwachsener Hund",
+          "pro": "Charakter und Größe sind schon bekannt",
+          "contra": "Er bringt seine Geschichte mit, das Ankommen braucht Geduld"
+        },
+        {
+          "name": "Älterer Hund",
+          "pro": "Oft ruhig und dankbar, ideal für ein ruhiges Zuhause",
+          "contra": "Höhere Tierarztkosten möglich, gemeinsame Zeit kürzer"
+        }
+      ],
+      "tipps": [
+        "Zeit: Hast du jeden Tag mindestens 2 Stunden für deinen Hund, auch bei Regen und nach einem langen Arbeitstag?",
+        "Betreuung: Wer kümmert sich, wenn du krank bist, arbeitest oder in den Urlaub fährst?",
+        "Wohnung: Prüf deinen Mietvertrag und hol dir die Zustimmung deines Vermieters.",
+        "Kosten: Plane grob 100–200 € im Monat plus eine Rücklage für den Tierarzt ein.",
+        "Allergie: Verbringt vorher Zeit mit Hunden der Rasse, die du dir wünschst.",
+        "Familie: Wollen wirklich alle im Haushalt einen Hund?",
+        "Hundeschule und Tierarzt: Gibt es in deiner Nähe eine gute Hundeschule mit belohnungsbasiertem Training?"
+      ],
+      "fehler": [
+        "Einen Hund spontan kaufen oder verschenken, zum Beispiel zu Weihnachten.",
+        "Nur nach Aussehen wählen statt nach Wesen und Bedürfnissen.",
+        "Die Zeit für die ersten Monate unterschätzen."
+      ],
+      "verwandte": [
+        {
+          "type": "bibliothek",
+          "id": "kosten-pflichten"
+        },
+        {
+          "type": "bibliothek",
+          "id": "herkunft"
+        },
+        {
+          "type": "lifestyle",
+          "id": "anfaengerhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "ruede-oder-huendin"
+        },
+        {
+          "type": "bibliothek",
+          "id": "guter-halter"
+        }
+      ],
+      "zitat": "Du hast deine Freunde, deine Arbeit und so vieles mehr in deinem Leben. Dein Hund hat nur dich. Für ihn bist du die ganze Welt.",
+      "kurz": [
+        "Ein Hund begleitet dich 10 bis 15 Jahre. Entscheide in Ruhe und mit allen, die bei dir wohnen.",
+        "Kläre Zeit, Betreuung, Vermieter, Kosten und Allergien vorher.",
+        "Wähle nach Wesen und Bedürfnissen, nicht nach Aussehen."
+      ],
+      "photo": "extra-berner",
+      "credit": {
+        "text": "Pleple2000, CC BY-SA 3.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Wystawa_Rybnik_02.10.2011_berne%C5%84ski_pies_pasterski_3pl.jpg"
+      }
+    },
+    {
+      "id": "herkunft",
+      "title": "Seriöse Herkunft statt Welpenhandel",
+      "tag": "Vor dem Hund",
+      "summary": "Woran du gute Züchter und seriösen Tierschutz erkennst, und wie du Welpenhändler entlarvst.",
+      "ueberblick": "Jedes Jahr werden viele Welpen illegal nach Deutschland gebracht: zu früh von der Mutter getrennt, oft ungeimpft und krank. Wer dort kauft, hält das Geschäft am Laufen. In Deutschland darf ein Welpe erst ab einem Alter von über acht Wochen von seiner Mutter getrennt werden. Ein guter Züchter oder ein seriöser Tierschutzverein nimmt sich Zeit für dich und stellt dir viele Fragen.",
+      "varianten": [
+        {
+          "name": "Züchter in einem Zuchtverein",
+          "pro": "Gesundheitsuntersuchungen der Eltern, kontrollierte Zucht, Beratung auch später",
+          "contra": "Oft Wartezeit und höherer Preis"
+        },
+        {
+          "name": "Tierheim oder Tierschutzverein",
+          "pro": "Kennenlernen vor Ort, Beratung, oft Rücknahme möglich",
+          "contra": "Vorkontrolle und Wartezeit"
+        },
+        {
+          "name": "Auslandstierschutz",
+          "pro": "Viele Hunde brauchen dringend ein Zuhause",
+          "contra": "Nur über Vereine mit Erlaubnis nach § 11 Tierschutzgesetz, sonst hohes Risiko"
+        }
+      ],
+      "tipps": [
+        "Lern die Mutterhündin kennen und besuch die Welpen mehrmals dort, wo sie aufwachsen.",
+        "Lass dir Gesundheitsnachweise der Eltern zeigen, zum Beispiel Hüft- und Ellenbogen-Röntgen oder Gentests.",
+        "Bei der Abgabe hat der Welpe einen Chip, einen EU-Heimtierausweis und die passenden Impfungen.",
+        "Ein Kauf- oder Schutzvertrag gehört dazu.",
+        "Ein guter Züchter fragt dich genau aus und will wissen, wie du lebst."
+      ],
+      "fehler": [
+        "Übergabe auf einem Parkplatz, an einer Raststätte oder Lieferung nach Hause.",
+        "Keine Mutterhündin zu sehen, oder viele verschiedene Rassen gleichzeitig im Angebot.",
+        "Zeitdruck („nur heute“) und ein auffällig niedriger Preis.",
+        "Welpen, die jünger als acht Wochen sind."
+      ],
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "schutz-strassenhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "tierschutzhund"
+        },
+        {
+          "type": "bibliothek",
+          "id": "hitze-qualzucht"
+        }
+      ],
+      "quellen": [
+        {
+          "title": "Tierschutz-Hundeverordnung (gesetze-im-internet.de)",
+          "url": "https://www.gesetze-im-internet.de/tierschhuv/"
+        },
+        {
+          "title": "Tierschutzgesetz (gesetze-im-internet.de)",
+          "url": "https://www.gesetze-im-internet.de/tierschg/"
+        }
+      ],
+      "photo": "bibliothek-herkunft",
+      "credit": {
+        "text": "Sharon Byrne Photography, CC BY-SA 4.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Bernese-newfoundland-mother-feeding-puppies-meath-ireland.jpg"
+      }
+    },
+    {
+      "id": "erste-tage",
+      "title": "Die ersten Tage zuhause",
+      "tag": "Vor dem Hund",
+      "summary": "Ruhe, Routinen und kleine Schritte: so kommt dein Hund gut bei dir an.",
+      "ueberblick": "Für deinen Hund ist alles neu: Gerüche, Geräusche, Menschen. In den ersten Tagen braucht er vor allem Ruhe, Sicherheit und einen verlässlichen Tagesablauf. Training kommt später. Jetzt geht es ums Ankommen und um Vertrauen.",
+      "varianten": [
+        {
+          "name": "Welpe",
+          "pro": "Lernt schnell und neugierig",
+          "contra": "Braucht 18–20 Stunden Schlaf und nachts oft Begleitung nach draußen"
+        },
+        {
+          "name": "Erwachsener Hund",
+          "pro": "Oft schon stubenrein und an Abläufe gewöhnt",
+          "contra": "Zeigt sein wahres Wesen oft erst nach Wochen"
+        },
+        {
+          "name": "Hund aus dem Tierschutz",
+          "pro": "Sehr dankbar für Sicherheit",
+          "contra": "Braucht besonders viel Ruhe und Geduld"
+        }
+      ],
+      "tipps": [
+        "Hol die Grundausstattung schon vorher: Y-Geschirr, Alltagsleine 2–3 m, flaches Halsband mit Adressanhänger, Näpfe, ein Bett und Kotbeutel. Eine Rollleine brauchst du nicht.",
+        "Richte vorher einen ruhigen Rückzugsort ein, an dem niemand den Hund stört.",
+        "Die ersten Tage: wenig Besuch, kurze, ruhige Spaziergänge und viel Schlaf.",
+        "Feste Zeiten für Futter, Spaziergänge und Ruhe geben Sicherheit.",
+        "Füttere zuerst das gewohnte Futter und stell erst später langsam um.",
+        "Mach in der ersten Woche einen entspannten Kennenlern-Besuch beim Tierarzt.",
+        "Erledige das Wichtige: Haftpflicht ab dem ersten Tag, Anmeldung bei der Gemeinde (Hundesteuer) und Registrierung des Chips.",
+        "Übe Alleinbleiben erst nach ein paar Tagen und dann in Mini-Schritten.",
+        "Such dir früh eine gute Hundeschule. Achte auf belohnungsbasiertes Training, kleine Gruppen, ruhige Erklärungen und keine Strafen wie Leinenruck, Sprühhalsband oder Schreien. Schau dir vorher eine Stunde an.",
+        "Die Trainingspläne in PfotenClan helfen dir beim Üben zuhause. Sie ersetzen keine Hundeschule."
+      ],
+      "fehler": [
+        "Gleich am ersten Wochenende auf die Hundewiese oder zu Familienbesuchen.",
+        "Den Hund schon in den ersten Tagen stundenlang allein lassen.",
+        "Zu viel Programm. Ein übermüdeter Hund kommt schwer zur Ruhe."
+      ],
+      "verwandte": [
+        {
+          "type": "training",
+          "id": "stubenreinheit"
+        },
+        {
+          "type": "bibliothek",
+          "id": "alleinbleiben"
+        },
+        {
+          "type": "bibliothek",
+          "id": "tierschutzhund"
+        },
+        {
+          "type": "bibliothek",
+          "id": "leinen-halsband"
+        }
+      ],
+      "photo": "lifestyle-anfaengerhunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "ruede-oder-huendin",
+      "title": "Rüde oder Hündin?",
+      "tag": "Vor dem Hund",
+      "summary": "Was wirklich anders ist, was nur ein Klischee ist und was du über Kastration in Deutschland wissen solltest.",
+      "ueberblick": "Viele fragen sich vor dem ersten Hund: Rüde oder Hündin? Die ehrliche Antwort: Die Unterschiede sind nur Tendenzen. Rasse, Erziehung, Erfahrungen und vor allem der einzelne Hund prägen den Charakter viel stärker als das Geschlecht. Beide lernen gleich gut mit Belohnung. Ein paar Dinge im Alltag sind aber wirklich anders, und die solltest du kennen.",
+      "abschnitte": [
+        {
+          "title": "Hündin: Läufigkeit und Scheinträchtigkeit",
+          "text": "Die meisten Hündinnen werden ein- bis zweimal im Jahr läufig, jeweils etwa drei Wochen lang. In dieser Zeit riechen Rüden sie schon von weitem. Deine Hündin bleibt dann an der Leine, Hundewiese und Gruppenstunden machen Pause. Nach der Läufigkeit werden viele Hündinnen scheinträchtig: Sie bauen Nester, tragen Spielzeug herum und sind anhänglich oder launisch. Das ist natürlich und geht meist nach ein paar Wochen vorbei. Dauert es lange oder bildet sich viel Milch, frag deinen Tierarzt."
+        },
+        {
+          "title": "Rüde: Markieren und Liebeskummer",
+          "text": "Rüden sind innerhalb einer Rasse oft etwas größer und kräftiger. Viele markieren mehr und heben öfter das Bein an Ecken und Bäumen. Ist in der Nähe eine Hündin läufig, werden manche Rüden unruhig, jaulen, fressen schlecht oder sind draußen kaum ansprechbar. Begegnungen zwischen zwei unkastrierten Rüden können angespannter sein. Mit Training, Ruhe und Geduld bekommt ihr das gut in den Griff.",
+          "tipp": "Unser Loki ist ein unkastrierter Rüde und an der Leine manchmal reaktiv. Mit Training, Geduld und klaren Abläufen kommen wir richtig gut zurecht. Gib auch deinem Rüden diese Chance, bevor du über eine Kastration nachdenkst."
+        },
+        {
+          "title": "Kastration in Deutschland",
+          "text": "Eine Kastration ohne Grund ist nach dem Tierschutzgesetz nicht erlaubt. Es braucht immer einen Grund im Einzelfall, den dein Tierarzt prüft. Einer möglichen späteren Krankheit vorzubeugen reicht dafür nicht. Für Rüden gibt es einen Hormonchip, der die Wirkung einer Kastration für mehrere Monate nachahmt und danach wieder nachlässt. So kannst du testen, ob weniger Hormone ein Verhalten wirklich verändern. Wichtig: Eine Kastration ist kein Mittel gegen Reaktivität an der Leine, Angst oder Unsicherheit. Bei unsicheren Hunden kann sie solches Verhalten sogar verstärken. Hier helfen Training und ein guter Trainer. Ein unkastrierter Rüde ist mit Training gut zu führen. Vor der Geschlechtsreife raten Tierschützer von einer Kastration ab. Bei großen Rassen kann sie außerdem das Risiko für Gelenkerkrankungen erhöhen. Entscheide deshalb immer gemeinsam mit deinem Tierarzt."
+        }
+      ],
+      "varianten": [
+        {
+          "name": "Rüde",
+          "pro": "Keine Läufigkeit, oft etwas größer und kräftiger",
+          "contra": "Markiert oft mehr, kann bei läufigen Hündinnen in der Nähe sehr unruhig werden"
+        },
+        {
+          "name": "Hündin",
+          "pro": "Oft etwas kleiner und leichter",
+          "contra": "Ein- bis zweimal im Jahr läufig, danach oft scheinträchtig"
+        },
+        {
+          "name": "Rüde und Hündin zusammen",
+          "pro": "Verstehen sich oft gut",
+          "contra": "Während der Läufigkeit müsst ihr die beiden trennen, sonst gibt es Welpen"
+        },
+        {
+          "name": "Zwei Hunde gleichen Geschlechts",
+          "pro": "Keine ungewollten Welpen",
+          "contra": "Ob es klappt, hängt sehr von den beiden Charakteren ab"
+        }
+      ],
+      "tipps": [
+        "Wähle nach Charakter, nicht nach Geschlecht. Lerne den Hund vorher mehrmals kennen.",
+        "Schreib dir die Läufigkeiten deiner Hündin auf. So weißt du, wann die nächste kommt.",
+        "Während der Läufigkeit: Leine, ruhige Wege, keine Hundewiese. Sag deiner Hundeschule vorher Bescheid.",
+        "Ist dein Rüde gerade unruhig, weiche anderen Hunden lieber aus. Training für Ruhe und Impulskontrolle hilft ihm.",
+        "Eine Kastration ist eine Entscheidung für das ganze Leben. Lass dich ausführlich beraten und frag nach dem Hormonchip als Test."
+      ],
+      "fehler": [
+        "Einen Hund nur nach dem Geschlecht auswählen.",
+        "Kastration als Ersatz für Training sehen. Sie löst kein Erziehungsproblem und keine Reaktivität an der Leine.",
+        "Eine läufige Hündin frei laufen lassen oder mit ihr auf die Hundewiese gehen.",
+        "Rüde und Hündin während der Läufigkeit unbeaufsichtigt zusammen lassen."
+      ],
+      "verwandte": [
+        {
+          "type": "bibliothek",
+          "id": "vor-dem-hund"
+        },
+        {
+          "type": "bibliothek",
+          "id": "gesundheit-pflege"
+        },
+        {
+          "type": "training",
+          "id": "impulskontrolle"
+        }
+      ],
+      "kurz": [
+        "Die Unterschiede sind nur Tendenzen. Der einzelne Hund zählt mehr als das Geschlecht.",
+        "Hündinnen werden ein- bis zweimal im Jahr läufig, Rüden markieren oft mehr.",
+        "Kastration nur mit Grund im Einzelfall und immer gemeinsam mit dem Tierarzt."
+      ],
+      "quellen": [
+        {
+          "title": "Tierschutzgesetz (gesetze-im-internet.de)",
+          "url": "https://www.gesetze-im-internet.de/tierschg/"
+        },
+        {
+          "title": "Deutscher Tierschutzbund: Positionspapier Unfruchtbarmachung von Hunden",
+          "url": "https://tierschutzbund.de/fileadmin/Seiten/tierschutzbund.de/Downloads/Berichte/Positionspapier_DTSchB_Unfruchtbarmachung_von_Hunden.pdf"
+        },
+        {
+          "title": "UC Davis: Kastration und Gesundheitsrisiken bei 35 Rassen",
+          "url": "https://www.ucdavis.edu/magazine/when-should-you-neuter-your-dog-to-avoid-health-risks"
+        }
+      ],
+      "photo": "bibliothek-ruede-oder-huendin",
+      "credit": {
+        "text": "Kbwatts, CC BY-SA 4.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:A_pair_of_Cavalier_King_Charles_Spaniels.JPG"
+      }
+    },
+    {
+      "id": "kosten-pflichten",
+      "title": "Kosten & Pflichten in Deutschland",
+      "tag": "Vor dem Hund",
+      "summary": "Was ein Hund im Jahr kostet und welche Regeln du kennen solltest.",
+      "ueberblick": "Ein Hund begleitet dich 10–15 Jahre. Neben Futter fallen Hundesteuer, Versicherung, Tierarzt und Ausstattung an. Viele Regeln sind Sache des Bundeslandes oder der Gemeinde, deshalb lohnt sich vor der Anschaffung ein Blick auf die Seiten deiner Stadt.",
+      "varianten": [
+        {
+          "name": "Hundesteuer",
+          "pro": "Pflicht in fast allen Gemeinden",
+          "contra": "Höhe je Gemeinde sehr unterschiedlich, für Listenhunde oft deutlich höher"
+        },
+        {
+          "name": "Hundehaftpflicht",
+          "pro": "Deckt Schäden, die dein Hund verursacht",
+          "contra": "In mehreren Bundesländern (z.B. Berlin, Hamburg, Niedersachsen) für alle Hunde Pflicht"
+        },
+        {
+          "name": "OP- oder Krankenversicherung",
+          "pro": "Schützt vor hohen Tierarztrechnungen",
+          "contra": "Freiwillig, Leistungen und Beiträge stark unterschiedlich"
+        }
+      ],
+      "tipps": [
+        "Laufende Kosten grob mit 100–200 € im Monat ansetzen, große Hunde eher mehr.",
+        "Eine Rücklage für Notfälle bilden. Eine Operation kostet schnell mehrere tausend Euro.",
+        "Hund chippen und kostenlos registrieren lassen (z.B. bei TASSO oder FINDEFIX), damit er gefunden wird.",
+        "Leinenpflicht, Listenhunde und Sachkundenachweis regelt jedes Bundesland anders. Vorher bei Stadt oder Gemeinde informieren."
+      ],
+      "fehler": [
+        "Nur den Kaufpreis einplanen und laufende Kosten unterschätzen.",
+        "Den Hund nicht bei der Gemeinde anmelden.",
+        "Bei Listenhunden erst nach dem Kauf die Auflagen prüfen."
+      ],
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "familienhunde"
+        },
+        {
+          "type": "rasse",
+          "id": "molosser"
+        },
+        {
+          "type": "bibliothek",
+          "id": "tierschutzhund"
+        }
+      ],
+      "photo": "bibliothek-kosten-pflichten",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "tierschutzhund",
+      "title": "Hund aus dem Tierschutz",
+      "tag": "Vor dem Hund",
+      "summary": "Die ersten Wochen mit einem Hund aus Tierheim oder Auslandstierschutz.",
+      "ueberblick": "Ein Hund aus dem Tierschutz braucht Zeit, um anzukommen. Als grobe Orientierung gilt die 3-3-3-Regel: etwa 3 Tage, um den ersten Stress abzubauen, 3 Wochen, um Routinen zu lernen, und 3 Monate, bis er sich zuhause fühlt. Jeder Hund ist anders, manche brauchen deutlich länger.",
+      "varianten": [
+        {
+          "name": "Tierheim vor Ort",
+          "pro": "Kennenlernen vorab, oft Beratung und Rücknahme möglich",
+          "contra": "Wartezeiten, Vorkontrolle"
+        },
+        {
+          "name": "Auslandstierschutz",
+          "pro": "Sehr viele Hunde suchen ein Zuhause",
+          "contra": "Oft kein Kennenlernen vorab, Herkunft und Verhalten schwer einschätzbar"
+        },
+        {
+          "name": "Pflegestelle in Deutschland",
+          "pro": "Der Hund lebt schon in einem Haushalt, Verhalten ist bekannt",
+          "contra": "Weniger Auswahl"
+        }
+      ],
+      "tipps": [
+        "Die ersten Tage reizarm gestalten: kein Besuch, kurze ruhige Runden, viel Schlaf.",
+        "Anfangs ein Sicherheitsgeschirr und eine Doppelsicherung nutzen. Angsthunde entwischen leicht.",
+        "Seriöse Vereine erkennst du an Schutzvertrag, Vorkontrolle, Nachbetreuung und offenen Angaben zur Gesundheit.",
+        "Einen Trainer mit Tierschutzerfahrung früh einbinden, nicht erst bei Problemen."
+      ],
+      "fehler": [
+        "Den Hund in der ersten Woche allen Freunden vorstellen.",
+        "Freilauf, bevor der Rückruf und die Bindung sicher sind.",
+        "Nach zwei Wochen das „wahre Wesen“ beurteilen."
+      ],
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "schutz-strassenhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kosten-pflichten"
+        }
+      ],
+      "photo": "bibliothek-tierschutzhund",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "grunderziehung",
+      "title": "Grunderziehung",
+      "tag": "Training",
+      "summary": "Die wichtigsten Grundkommandos und wie man sie sauber aufbaut.",
+      "ueberblick": "Eine solide Grunderziehung ist die Basis für ein entspanntes Zusammenleben. Sie schafft nicht nur Kontrolle in Alltagssituationen, sondern stärkt auch die Bindung zwischen Hund und Halter durch klare, faire Kommunikation.",
+      "varianten": [
+        {
+          "name": "Sitz & Platz",
+          "pro": "Grundlage für Impulskontrolle, leicht zu lernen",
+          "contra": "Muss in vielen Umgebungen einzeln generalisiert werden"
+        },
+        {
+          "name": "Bleib",
+          "pro": "Wichtig für Sicherheit (z.B. an Straßen)",
+          "contra": "Braucht viel Geduld beim Aufbau der Dauer"
+        },
+        {
+          "name": "Rückruf",
+          "pro": "Sicherheitsrelevantestes Kommando überhaupt",
+          "contra": "Am schwierigsten zuverlässig aufzubauen, besonders bei Ablenkung"
+        }
+      ],
+      "tipps": [
+        "Immer vom Leichten zum Schweren trainieren: erst zuhause ohne Ablenkung, dann draußen mit steigender Ablenkung.",
+        "Kommandos konsequent mit demselben Wort verknüpfen – wechselnde Begriffe verwirren den Hund.",
+        "Der Rückruf sollte immer positiv enden, niemals mit Bestrafung verbunden werden, auch wenn der Hund vorher etwas 'falsch' gemacht hat.",
+        "Kurze, häufige Trainingseinheiten statt seltener, langer Sessions."
+      ],
+      "fehler": [
+        "Kommandos wiederholen, wenn der Hund nicht reagiert – das trainiert ihn darauf, erst beim dritten Mal zu hören.",
+        "Rückruf bestrafen oder mit unangenehmen Dingen verknüpfen (z.B. Rückruf nur zum Leine-Anlegen nutzen).",
+        "Zu schnell zu viel Ablenkung einbauen, bevor das Kommando sicher sitzt."
+      ],
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "anfaengerhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "clickertraining"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        },
+        {
+          "type": "bibliothek",
+          "id": "alleinbleiben"
+        }
+      ],
+      "photo": "bibliothek-grunderziehung",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "welpenerziehung",
+      "title": "Welpenerziehung & Sozialisierung",
+      "tag": "Training",
+      "summary": "Die wichtigste Lernphase im Hundeleben – was jetzt zählt.",
+      "ueberblick": "Die Sozialisierungsphase (ca. 3. bis 12.–14. Lebenswoche) ist die wichtigste Lernphase im Hundeleben. Was ein Welpe hier an guten Erfahrungen sammelt, prägt ihn oft lebenslang. Lernen hört danach nicht auf, aber neue Eindrücke werden schwerer positiv verknüpft.",
+      "varianten": [
+        {
+          "name": "Sozialisierung mit Menschen",
+          "pro": "Verhindert spätere Fremdenangst",
+          "contra": "Muss behutsam dosiert werden, um Überforderung zu vermeiden"
+        },
+        {
+          "name": "Sozialisierung mit Hunden",
+          "pro": "Lernt Beschwichtigungssignale und Spielregeln",
+          "contra": "Nur mit geimpften, verträglichen Hunden sicher möglich"
+        },
+        {
+          "name": "Umweltgewöhnung (Geräusche, Orte)",
+          "pro": "Reduziert spätere Ängste (Verkehr, Gewitter, Staubsauger)",
+          "contra": "Braucht viel Zeit und Wiederholung"
+        }
+      ],
+      "tipps": [
+        "Kurze, positive Erfahrungen sind wertvoller als lange, überfordernde Situationen.",
+        "Stubenreinheit über konsequente Routine aufbauen: regelmäßige Rausgeh-Zeiten nach Schlafen, Fressen und Spielen.",
+        "Beißhemmung wird vor allem im Kontakt mit Wurfgeschwistern und anderen sozialisierten Hunden gelernt.",
+        "Erste Tierarztbesuche positiv gestalten (z.B. mit Leckerli), um spätere Angst vor der Praxis zu vermeiden.",
+        "Viel Schlaf einplanen: Welpen brauchen 18–20 Stunden Ruhe am Tag. Übermüdete Welpen wirken oft „aufgedreht“ und beißen mehr."
+      ],
+      "fehler": [
+        "Den Welpen mit zu vielen neuen Reizen auf einmal überfordern statt schrittweise vorzugehen.",
+        "Strafen bei 'Unfällen' während der Stubenreinheit – das verzögert den Lernprozess eher.",
+        "Sozialisierungsfenster verpassen, weil man wegen fehlendem vollständigem Impfschutz komplett zuhause bleibt, statt sichere Alternativen zu nutzen (z.B. Tragen, private Kontakte mit geimpften Hunden)."
+      ],
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "familienhunde"
+        },
+        {
+          "type": "lifestyle",
+          "id": "schutz-strassenhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        }
+      ],
+      "photo": "bibliothek-welpenerziehung",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "clickertraining",
+      "title": "Clickertraining",
+      "tag": "Training",
+      "summary": "Wie Clickertraining funktioniert und wie du damit startest.",
+      "ueberblick": "Clickertraining ist eine Form der positiven Verstärkung, bei der ein kurzes, immer gleiches Klickgeräusch den exakten Moment markiert, in dem der Hund das gewünschte Verhalten zeigt. Der Klick sagt dem Hund präzise: 'Genau das war richtig', noch bevor die Belohnung folgt.",
+      "varianten": [
+        {
+          "name": "Klassischer Handclicker",
+          "pro": "Präzises, unverwechselbares Signal",
+          "contra": "Braucht beide Hände (Clicker + Leckerli)"
+        },
+        {
+          "name": "Markerwort (z.B. 'Yes')",
+          "pro": "Keine Ausrüstung nötig, immer verfügbar",
+          "contra": "Weniger präzise als ein mechanisches Klickgeräusch"
+        }
+      ],
+      "tipps": [
+        "Zuerst 'aufladen': Click sofort mit einem Leckerli koppeln, bis der Hund den Zusammenhang zuverlässig herstellt (meist nach wenigen Wiederholungen).",
+        "Timing ist alles – klicke exakt im Moment des gewünschten Verhaltens, nicht danach.",
+        "Nach dem Click folgt immer eine Belohnung, auch wenn sie erst mit Verzögerung überreicht wird.",
+        "Kurze Trainingseinheiten (5–10 Minuten) sind effektiver als lange Sessions."
+      ],
+      "fehler": [
+        "Click ohne anschließende Belohnung – dadurch verliert das Signal seine Bedeutung.",
+        "Zu spätes Klicken, wodurch der Hund ein anderes Verhalten als das gewünschte verknüpft.",
+        "Den Clicker als Kommando statt als Marker nutzen (der Clicker ersetzt kein Wort wie 'Sitz')."
+      ],
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "anfaengerhunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        }
+      ],
+      "photo": "bibliothek-clickertraining",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "alleinbleiben",
+      "title": "Alleinbleiben üben",
+      "tag": "Training",
+      "summary": "Wie dein Hund in kleinen Schritten lernt, entspannt allein zu sein.",
+      "ueberblick": "Alleinsein ist für Hunde als soziale Tiere nicht selbstverständlich. Es muss geübt werden, am besten so langsam, dass der Hund nie in Stress gerät. Wer zu schnell steigert, riskiert Trennungsstress, der sich später nur mühsam wieder abbauen lässt.",
+      "varianten": [
+        {
+          "name": "Mini-Schritte (Sekunden statt Minuten)",
+          "pro": "Der Hund erlebt Alleinsein nie als bedrohlich",
+          "contra": "Braucht Geduld, die Steigerung dauert Wochen"
+        },
+        {
+          "name": "Kamera-Kontrolle",
+          "pro": "Du siehst, ob dein Hund wirklich entspannt ist oder nur still leidet",
+          "contra": "Technik nötig, z.B. altes Handy als Kamera"
+        },
+        {
+          "name": "Betreuung als Überbrückung",
+          "pro": "Hundesitter oder Huta verhindern Überforderung während des Trainings",
+          "contra": "Kostet Geld und Organisation"
+        }
+      ],
+      "tipps": [
+        "Mit Sekunden starten: Tür zu, zurückkommen, bevor der Hund unruhig wird.",
+        "Steigern nur, wenn der Hund mehrmals entspannt geblieben ist. Bei Stress einen Schritt zurück.",
+        "Rituale neutral halten: kein großes Abschieds- oder Begrüßungsdrama.",
+        "Vorher Bedürfnisse erfüllen: Gassi, Schnüffeln, Wasser, dann Ruhe.",
+        "Ein Kauartikel kann helfen, ersetzt aber das schrittweise Training nicht."
+      ],
+      "fehler": [
+        "Den Hund einfach „durchhalten“ lassen. Das verstärkt die Angst meist.",
+        "Bei Zerstörung oder Unsauberkeit schimpfen. Das ist Stress, keine Rache.",
+        "Gleich in der ersten Woche einen ganzen Arbeitstag planen."
+      ],
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "wohnungshunde"
+        },
+        {
+          "type": "rasse",
+          "id": "gesellschaftshunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "ruhe-auslastung"
+        }
+      ],
+      "photo": "bibliothek-alleinbleiben",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "ruhe-auslastung",
+      "title": "Ruhe, Schlaf & Auslastung",
+      "tag": "Training",
+      "summary": "Warum Ruhe genauso wichtig ist wie Bewegung und wie gute Auslastung aussieht.",
+      "ueberblick": "Erwachsene Hunde ruhen und schlafen oft 17–20 Stunden am Tag. Fehlt diese Ruhe, wirken sie nicht müde, sondern hibbelig, reizbar und unkonzentriert. Gute Auslastung heißt deshalb nicht „möglichst viel Action“, sondern eine passende Mischung aus Bewegung, Kopfarbeit, Schnüffeln und Pausen.",
+      "varianten": [
+        {
+          "name": "Nasenarbeit & Schnüffeln",
+          "pro": "Lastet geistig stark aus und senkt den Puls",
+          "contra": "Braucht Zeit, Spaziergänge werden langsamer"
+        },
+        {
+          "name": "Ruhe-Training (Decke, Box)",
+          "pro": "Hund lernt, selbstständig abzuschalten",
+          "contra": "Muss wie jedes Signal aufgebaut werden"
+        },
+        {
+          "name": "Ballspiel & Rennspiele",
+          "pro": "Macht Spaß, baut Energie ab",
+          "contra": "In Mengen pusht es hoch statt auszulasten"
+        }
+      ],
+      "tipps": [
+        "Feste Ruhezeiten einplanen, besonders nach Training, Besuch oder aufregenden Ausflügen.",
+        "Einen ungestörten Rückzugsort einrichten, an dem niemand den Hund weckt.",
+        "Schnüffelspaziergänge an langer Leine sind für viele Hunde erholsamer als Joggen.",
+        "Kauen und Lecken (Kauartikel, Schleckmatte) wirken beruhigend."
+      ],
+      "fehler": [
+        "Einen aufgedrehten Hund noch mehr auspowern. Oft fehlt ihm Schlaf, nicht Bewegung.",
+        "Jeden Tag ein volles Programm ohne ruhige Tage dazwischen.",
+        "Ballspiele als Hauptbeschäftigung, vor allem bei Hütehunden."
+      ],
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "huetehunde"
+        },
+        {
+          "type": "lifestyle",
+          "id": "aktive-begleiter"
+        },
+        {
+          "type": "bibliothek",
+          "id": "alleinbleiben"
+        }
+      ],
+      "photo": "bibliothek-ruhe-auslastung",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "leinen-halsband",
+      "title": "Leine, Geschirr & Halsband",
+      "tag": "Training",
+      "summary": "Was dein Hund wirklich braucht, was du weglassen kannst und warum wir von der Rollleine abraten.",
+      "ueberblick": "Gute Ausrüstung ist bequem für deinen Hund und sicher für euch beide. Sie ersetzt aber kein Training: Keine Leine und kein Geschirr bringt deinem Hund bei, locker neben dir zu laufen. Das schafft nur Üben mit Belohnung. Unsere Grundausstattung: ein gut sitzendes Y-Geschirr, eine Alltagsleine mit 2–3 m, ein flaches Halsband für Marke und Adresse und eine Schleppleine für das Rückruftraining.",
+      "varianten": [
+        {
+          "name": "Y-Geschirr",
+          "pro": "Schultern frei, Zug verteilt sich auf den Brustkorb. Unsere Empfehlung für fast alle Hunde",
+          "contra": "Muss gut angepasst sein, sonst scheuert es"
+        },
+        {
+          "name": "Alltagsleine 2–3 m, verstellbar",
+          "pro": "Genug Freiraum zum Schnüffeln. Mit zwei Karabinern auch kurz einstellbar",
+          "contra": "Etwas Übung, die Länge mit der Hand zu regeln"
+        },
+        {
+          "name": "Schleppleine 5–10 m",
+          "pro": "Freiheit mit Sicherheit, ideal für Rückruf und Schnüffeln im Feld. Biothane bleibt sauber und saugt kein Wasser",
+          "contra": "Nur am Geschirr, nie am Halsband. Handschuhe tragen, nie um die Hand wickeln"
+        },
+        {
+          "name": "Flaches Halsband",
+          "pro": "Für Hundemarke und Adresse, bequem im Haus",
+          "contra": "Nicht zum Führen, wenn dein Hund zieht"
+        },
+        {
+          "name": "Halsband mit Zugstopp",
+          "pro": "Für Windhunde mit schmalem Kopf, die aus normalen Halsbändern schlüpfen",
+          "contra": "Nur mit Stopp und so eingestellt, dass es nie einschnürt. Besser zusätzlich ein Sicherheitsgeschirr"
+        },
+        {
+          "name": "Kopfhalfter",
+          "pro": "Kann bei sehr großen, kräftigen Hunden etwas mehr Kontrolle geben",
+          "contra": "Nur nach langsamer Gewöhnung und mit Trainer. Nie rucken, nie an langer Leine. Viele Hunde empfinden es als unangenehm"
+        },
+        {
+          "name": "Rollleine",
+          "pro": "Wirkt bequem",
+          "contra": "Ständiger Zug, Verletzungsgefahr, wenig Kontrolle. Wir raten davon ab"
+        }
+      ],
+      "tipps": [
+        "Grundausstattung: Y-Geschirr, Alltagsleine 2–3 m, flaches Halsband mit Adressanhänger, Schleppleine, Leckerli-Beutel und Kotbeutel.",
+        "Gewöhne deinen Hund mit Leckerli an das Geschirr: erst zeigen, dann kurz überstreifen, dann schließen. Nie über den Kopf zwingen.",
+        "Ängstliche Hunde und Hunde aus dem Tierschutz: ein Sicherheitsgeschirr mit drittem Gurt am Bauch und eine Doppelsicherung an Geschirr und Halsband.",
+        "Im Winter und in der Dämmerung: ein Leuchthalsband oder eine Leuchtweste, damit dein Hund gesehen wird.",
+        "Übe den Maulkorb früh und mit Freude, auch wenn du ihn nicht brauchst. Beim Tierarzt, auf Reisen oder in manchen Verkehrsmitteln kann er nötig werden. Ein Korbmaulkorb lässt Hecheln und Trinken zu.",
+        "Prüfe Karabiner, Nähte und Passform regelmäßig. Welpen wachsen schnell aus ihrem Geschirr heraus.",
+        "Halte die Leine locker in der Hand und wickle sie nie um die Hand."
+      ],
+      "fehler": [
+        "Die Rollleine als Alltagsleine nutzen. Dein Hund lernt, dass Ziehen sich lohnt.",
+        "Einen Hund, der zieht, am Halsband führen.",
+        "Würger, Stachelhalsband, Sprühhalsband oder Stromhalsband. Schmerz und Schreck machen Angst und schaden eurer Beziehung. Stachelhalsband und Strom sind in Deutschland verboten.",
+        "Anti-Zieh-Geschirre oder Kopfhalfter als Ersatz für Training nutzen.",
+        "Die Schleppleine am Halsband befestigen. Rennt dein Hund los, drohen schwere Verletzungen an Hals und Wirbelsäule.",
+        "Ein zu großes Geschirr kaufen, in das der Welpe „reinwachsen“ soll. Aus einem lockeren Geschirr schlüpft er leicht heraus."
+      ],
+      "verwandte": [
+        {
+          "type": "training",
+          "id": "leinenfuehrigkeit"
+        },
+        {
+          "type": "training",
+          "id": "rueckruf"
+        },
+        {
+          "type": "rasse",
+          "id": "windhunde"
+        }
+      ],
+      "abschnitte": [
+        {
+          "title": "Das Geschirr richtig anpassen",
+          "text": "Ein gutes Geschirr hat vorne eine Y-Form: Der Steg läuft zwischen den Vorderbeinen zum Bauchgurt, die Schultern bleiben frei. Der Bauchgurt sitzt etwa eine Handbreit hinter den Ellenbogen, damit nichts scheuert. Unter jeden Gurt passen zwei Finger. Geschirre mit einem Gurt quer vor der Brust liegen oft auf den Schultern und schränken die Bewegung ein. Probiere das Geschirr am besten mit deinem Hund im Fachhandel an."
+        },
+        {
+          "title": "Warum wir von der Rollleine abraten",
+          "text": "An der Rollleine ist die Leine immer leicht gespannt. Dein Hund lernt dabei: Wenn ich ziehe, komme ich weiter. Das ist genau das Gegenteil von Leinenführigkeit. Dazu kommen echte Risiken: Die dünne Schnur kann Hände und Beine von Mensch und Hund schwer verletzen. In einer brenzligen Situation hast du wenig Kontrolle. Und fällt dir der Griff herunter, scheppert er hinter deinem Hund her und kann ihm große Angst machen. Für mehr Freiheit beim Schnüffeln ist eine Schleppleine die bessere Wahl."
+        },
+        {
+          "title": "Wofür das Halsband da ist",
+          "text": "Ein flaches, breites Halsband trägt Hundemarke und Adressanhänger. Zum Führen nimmst du das Geschirr. Zug am Halsband drückt auf Luftröhre und Kehlkopf und kann den Druck in den Augen erhöhen. Besonders empfindlich sind kleine Rassen, kurznasige Hunde und Hunde mit Augenproblemen."
+        },
+        {
+          "title": "Was in Deutschland verboten ist",
+          "text": "Seit 2022 ist es nach der Tierschutz-Hundeverordnung verboten, bei Ausbildung, Erziehung und Training Stachelhalsbänder oder andere schmerzhafte Mittel zu verwenden. Das gilt für alle Hundehalter. Elektroreizgeräte (Stromhalsbänder) sind durch das Tierschutzgesetz verboten. Auch Würger und Halsbänder, die ohne Stopp zuziehen, arbeiten mit Druck und Schmerz. Im fairen Training haben sie keinen Platz."
+        }
+      ],
+      "kurz": [
+        "Grundausstattung: Y-Geschirr, Alltagsleine mit 2–3 m, flaches Halsband für die Marke, Schleppleine.",
+        "Von der Rollleine raten wir ab.",
+        "Stachelhalsband und Strom sind in Deutschland verboten. Würger haben im fairen Training keinen Platz."
+      ],
+      "quellen": [
+        {
+          "title": "Tierschutz-Hundeverordnung (gesetze-im-internet.de)",
+          "url": "https://www.gesetze-im-internet.de/tierschhuv/"
+        },
+        {
+          "title": "Tierschutzgesetz (gesetze-im-internet.de)",
+          "url": "https://www.gesetze-im-internet.de/tierschg/"
+        }
+      ],
+      "photo": "bibliothek-leinen-halsband",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "gesundheit-pflege",
+      "title": "Gesundheit & Pflege",
+      "tag": "Gesundheit",
+      "summary": "Fellpflege, Parasitenschutz, Zahnpflege und Vorsorge im Überblick.",
+      "ueberblick": "Regelmäßige Pflege und Vorsorge verhindern viele Probleme, bevor sie entstehen. Der Aufwand unterscheidet sich stark je nach Fellart und Rasse, aber einige Grundlagen gelten für jeden Hund.",
+      "varianten": [
+        {
+          "name": "Fellpflege (Bürsten)",
+          "pro": "Reduziert Verfilzungen, fördert Durchblutung",
+          "contra": "Häufigkeit variiert stark: von wöchentlich bis täglich je nach Fellart"
+        },
+        {
+          "name": "Parasitenschutz (Zecken/Flöhe)",
+          "pro": "Verhindert übertragbare Krankheiten",
+          "contra": "Chemische Mittel vs. natürliche Alternativen – Wirksamkeit unterscheidet sich"
+        },
+        {
+          "name": "Zahnpflege",
+          "pro": "Beugt Zahnstein und Zahnfleischerkrankungen vor",
+          "contra": "Viele Hunde brauchen Gewöhnung ans Zähneputzen"
+        }
+      ],
+      "tipps": [
+        "Krallen regelmäßig prüfen – zu lange Krallen verändern den Gang und können schmerzhaft werden.",
+        "Ohren bei Rassen mit Hängeohren (z.B. Spaniel, Retriever) regelmäßig auf Rötung oder Geruch kontrollieren.",
+        "Jährliche Vorsorgeuntersuchung beim Tierarzt, unabhängig davon, ob der Hund gesund wirkt.",
+        "Zähneputzen langsam und mit Belohnung an den Welpen oder erwachsenen Hund gewöhnen, nicht erzwingen."
+      ],
+      "fehler": [
+        "Fellpflege erst bei sichtbaren Verfilzungen beginnen statt präventiv regelmäßig zu bürsten.",
+        "Parasitenschutz nur in den Sommermonaten anwenden, obwohl Zecken je nach Region ganzjährig aktiv sein können.",
+        "Tierarztbesuche nur im Notfall statt regelmäßiger Vorsorge, wodurch Probleme spät erkannt werden."
+      ],
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "dackel"
+        },
+        {
+          "type": "rasse",
+          "id": "windhunde"
+        },
+        {
+          "type": "lifestyle",
+          "id": "wohnungshunde"
+        },
+        {
+          "type": "lifestyle",
+          "id": "allergikerfreundlich"
+        },
+        {
+          "type": "bibliothek",
+          "id": "cooperative-care"
+        },
+        {
+          "type": "bibliothek",
+          "id": "ruede-oder-huendin"
+        }
+      ],
+      "photo": "bibliothek-gesundheit-pflege",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "ernaehrung",
+      "title": "Ernährung Grundlagen",
+      "tag": "Gesundheit",
+      "summary": "Die Basics zu Futterarten, Fütterungsrhythmus und häufigen Fehlern.",
+      "ueberblick": "Eine ausgewogene Ernährung ist die Grundlage für Gesundheit, Fell und Energielevel. Die 'richtige' Futterart hängt von Alter, Größe, Aktivität und individueller Verträglichkeit des Hundes ab – Pauschalempfehlungen gibt es kaum.",
+      "varianten": [
+        {
+          "name": "Trockenfutter",
+          "pro": "Praktisch, lange haltbar, oft günstiger",
+          "contra": "Geringerer Wassergehalt, Qualität variiert stark je nach Hersteller"
+        },
+        {
+          "name": "Nassfutter",
+          "pro": "Höherer Wassergehalt, oft schmackhafter",
+          "contra": "Teurer, kürzere Haltbarkeit nach Öffnen"
+        },
+        {
+          "name": "BARF (rohe Fütterung)",
+          "pro": "Volle Kontrolle über Zutaten",
+          "contra": "Erfordert fundiertes Wissen, um Mangelernährung zu vermeiden; Hygiene beachten"
+        }
+      ],
+      "tipps": [
+        "Futtermenge an Gewicht, Aktivität und Alter anpassen – die Herstellerangabe ist nur ein Startpunkt, kein Fixwert.",
+        "Fütterungszeiten möglichst konstant halten, das unterstützt Verdauung und Stubenreinheit.",
+        "Bei Futterumstellung schrittweise über 7–10 Tage mischen, um Magen-Darm-Probleme zu vermeiden.",
+        "Bei Unsicherheit zu Nährstoffbedarf oder BARF-Rationen tierärztlichen oder ernährungsberaterischen Rat einholen."
+      ],
+      "fehler": [
+        "Regelmäßig Essensreste vom Tisch geben. Viele menschliche Lebensmittel sind für Hunde ungeeignet oder giftig, z.B. Schokolade, Weintrauben und Rosinen, Zwiebeln, Knoblauch und Xylit (Birkenzucker).",
+        "Futtermenge nicht an sinkende Aktivität im Alter anpassen, was zu Übergewicht führt.",
+        "Ration bei BARF ohne Grundwissen zusammenstellen und dadurch wichtige Nährstoffe auslassen."
+      ],
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "dackel"
+        },
+        {
+          "type": "lifestyle",
+          "id": "ruhige-begleiter"
+        }
+      ],
+      "photo": "bibliothek-ernaehrung",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "hitze-qualzucht",
+      "title": "Hitze & kurznasige Rassen",
+      "tag": "Gesundheit",
+      "summary": "Hitzschlag erkennen, Sommer sicher gestalten und was Qualzucht bedeutet.",
+      "ueberblick": "Hunde kühlen sich fast nur über Hecheln ab. Bei Hitze ist das schnell zu wenig, besonders bei kurznasigen (brachyzephalen) Rassen wie Mops oder Französischer Bulldogge, bei nordischen Rassen, sehr jungen, alten oder übergewichtigen Hunden. Das deutsche Tierschutzgesetz verbietet Qualzucht, also Zucht auf Merkmale, die dem Tier Schmerzen oder Leiden verursachen. Atemnot durch extrem kurze Nasen gehört dazu.",
+      "varianten": [
+        {
+          "name": "Spaziergänge früh und spät",
+          "pro": "Kühlere Luft und kühler Asphalt",
+          "contra": "Erfordert Umstellung im Tagesablauf"
+        },
+        {
+          "name": "Kühlmatte & Schatten",
+          "pro": "Hund kann selbst wählen, wo er liegt",
+          "contra": "Kühlmatten sind nicht für jeden Hund attraktiv"
+        },
+        {
+          "name": "Gesundheitsorientierte Zucht",
+          "pro": "Längere Nase, freie Atmung, mehr Lebensqualität",
+          "contra": "Weniger „typisches“ Aussehen, längere Suche"
+        }
+      ],
+      "tipps": [
+        "Handrücken-Test: Wenn du deine Hand nicht 7 Sekunden auf dem Asphalt halten kannst, ist er zu heiß für Pfoten.",
+        "Hund nie im Auto lassen, auch nicht „kurz“ und nicht mit offenem Fenster.",
+        "Warnzeichen: starkes Hecheln, dunkelrote Zunge, Taumeln, Erbrechen. Dann in den Schatten, mit lauwarmem (nicht eiskaltem) Wasser kühlen und sofort zum Tierarzt.",
+        "Bei kurznasigen Hunden auf Atemgeräusche wie Schnarchen und Röcheln achten. Das ist nicht „süß“, sondern ein Warnsignal."
+      ],
+      "fehler": [
+        "Joggen oder Radfahren mit dem Hund in der Mittagshitze.",
+        "Schnarchen beim kurznasigen Hund für normal halten.",
+        "Einen Welpen ohne Gesundheitsnachweise der Elterntiere kaufen."
+      ],
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "gesellschaftshunde"
+        },
+        {
+          "type": "lifestyle",
+          "id": "wohnungshunde"
+        },
+        {
+          "type": "bibliothek",
+          "id": "gesundheit-pflege"
+        }
+      ],
+      "photo": "bibliothek-hitze-qualzucht",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "cooperative-care",
+      "title": "Tierarzt & Pflege ohne Stress",
+      "tag": "Gesundheit",
+      "summary": "Medical Training: Wie dein Hund bei Pflege und Untersuchung mitarbeitet.",
+      "ueberblick": "Beim Cooperative Care (Medical Training) lernt der Hund, bei Krallenschneiden, Ohrenkontrolle oder Untersuchung freiwillig mitzumachen. Er bekommt ein Signal, mit dem er „Ja, mach weiter“ sagt, und darf auch „Stopp“ sagen. Das baut Vertrauen auf und macht Tierarztbesuche für alle Beteiligten leichter.",
+      "varianten": [
+        {
+          "name": "Kinn-Ablegen (Chin Rest)",
+          "pro": "Klares Start-Signal: Kinn liegt, es geht weiter",
+          "contra": "Muss in vielen kleinen Schritten aufgebaut werden"
+        },
+        {
+          "name": "Freundschaftsbesuche in der Praxis",
+          "pro": "Praxis wird mit Leckerli statt Spritze verknüpft",
+          "contra": "Nur mit kooperativem Praxisteam möglich"
+        },
+        {
+          "name": "Maulkorb positiv aufbauen",
+          "pro": "Sicherheit im Notfall ohne zusätzlichen Stress",
+          "contra": "Braucht Wochen, nicht erst im Ernstfall beginnen"
+        }
+      ],
+      "tipps": [
+        "Berührungen kurz halten und sofort belohnen: Pfote anfassen, Leckerli, fertig.",
+        "Wenn der Hund das Kinn hebt oder weggeht, aufhören. Er lernt so, dass er gehört wird.",
+        "Krallen lieber jeden Tag eine schneiden als alle zusammen unter Zwang.",
+        "Den Maulkorb wie ein Spielzeug einführen: Futter hineinlegen, nichts schließen."
+      ],
+      "fehler": [
+        "Den Hund festhalten und „durchziehen“. Das macht die nächste Behandlung schwerer.",
+        "Erst mit dem Training anfangen, wenn eine Behandlung ansteht.",
+        "Beschwichtigungssignale wie Wegdrehen oder Lecken übergehen."
+      ],
+      "verwandte": [
+        {
+          "type": "bibliothek",
+          "id": "gesundheit-pflege"
+        },
+        {
+          "type": "bibliothek",
+          "id": "clickertraining"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        }
+      ],
+      "photo": "bibliothek-cooperative-care",
+      "credit": {
+        "text": "Veterinarian Pet Alliance, CC BY 4.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ear_examination_of_a_white_dog_in_Newark,_New_Jersey.jpg"
+      }
+    },
+    {
+      "id": "guter-halter",
+      "title": "Ein guter Hundehalter sein",
+      "tag": "Mensch & Hund",
+      "summary": "Was dein Hund von dir braucht: Verantwortung, Klarheit, Fairness und die Bereitschaft, ein Leben lang dazuzulernen.",
+      "ueberblick": "Ein guter Hundehalter muss nicht perfekt sein. Er muss da sein. Dein Hund richtet sein ganzes Leben nach dir: wann er frisst, wann er rausdarf, wen er trifft und wie sicher er sich fühlt. Er kann sich nicht aussuchen, bei wem er lebt. Darum trägst du die Verantwortung für sein Wohl, an guten und an schlechten Tagen, ein ganzes Hundeleben lang.",
+      "abschnitte": [
+        {
+          "title": "Verlässlich sein",
+          "text": "Hunde lieben Vorhersehbarkeit. Feste Zeiten für Futter, Spaziergänge und Ruhe geben Sicherheit. Verlässlich sein heißt auch: Du planst Betreuung für Urlaub und Krankheit, achtest auf Gesundheit und Gewicht, gehst zum Tierarzt, wenn etwas nicht stimmt, und bist für deinen Hund da, wenn er alt wird."
+        },
+        {
+          "title": "Klar und fair",
+          "text": "Dein Hund kann Regeln nur lernen, wenn sie für alle gelten. Sprecht im Haushalt ab, was erlaubt ist, zum Beispiel Sofa, Bett oder Betteln am Tisch, und nutzt dieselben Signale. Zeig deinem Hund, was er tun soll, statt nur zu verbieten, was er lassen soll, und belohne, was dir gefällt. Strafen, Schreien und Leinenruck machen Angst und zerstören Vertrauen. Fair heißt auch: Du verlangst nur, was dein Hund in diesem Moment leisten kann."
+        },
+        {
+          "title": "Deinen Hund ernst nehmen",
+          "text": "Dein Hund hat eigene Bedürfnisse: schnüffeln, rennen, kauen, Nähe und Ruhe. Und er hat Gefühle: Freude, Angst, Unsicherheit und Frust. Achte auf seine Signale und hilf ihm aus Situationen, die ihn überfordern. Ein Hund, der knurrt oder ausweicht, kommuniziert mit dir. Er ist nicht ungehorsam."
+        },
+        {
+          "title": "Deine Pflichten als Halter",
+          "text": "Als Halter haftest du für Schäden, die dein Hund verursacht. Eine Hundehaftpflicht ist deshalb wichtig und in mehreren Bundesländern Pflicht. Melde deinen Hund bei deiner Gemeinde an (Hundesteuer) und registriere seinen Chip. Die Tierschutz-Hundeverordnung schreibt unter anderem vor, dass dein Hund genug Auslauf im Freien und ausreichend Kontakt zu dir bekommt. Leinenpflicht, Listenhunde und Sachkundenachweis regelt jedes Bundesland anders, informiere dich bei deiner Stadt oder Gemeinde."
+        },
+        {
+          "title": "Ein Leben lang lernen",
+          "text": "Auch erfahrene Hundehalter lernen nie aus, und das Wissen über Hunde und Training entwickelt sich ständig weiter. Eine gute Hundeschule mit belohnungsbasiertem Training begleitet euch, beantwortet Fragen und erkennt Probleme, bevor sie groß werden. Hilfe anzunehmen ist kein Zeichen von Schwäche, sondern von Verantwortung."
+        }
+      ],
+      "varianten": [
+        {
+          "name": "Feste Regeln für alle",
+          "pro": "Dein Hund versteht schneller, was gilt",
+          "contra": "Alle im Haushalt müssen mitmachen"
+        },
+        {
+          "name": "Mit Hundeschule",
+          "pro": "Fachliche Begleitung, Fehler werden früh erkannt",
+          "contra": "Kostet Zeit und Geld, die Qualität ist sehr unterschiedlich"
+        },
+        {
+          "name": "Allein üben",
+          "pro": "Flexibel und passt in jeden Alltag",
+          "contra": "Ohne Blick von außen schleichen sich Fehler leichter ein"
+        }
+      ],
+      "tipps": [
+        "Plane jeden Tag bewusst Zeit nur für deinen Hund ein, ohne Handy.",
+        "Schreibt eure Hausregeln auf und hängt sie an den Kühlschrank, damit alle dasselbe tun.",
+        "Belohne gutes Verhalten im Alltag, nicht nur beim Training.",
+        "Speichere die Nummern von Tierarzt und Tiernotdienst in deinem Handy.",
+        "Such dir eine Hundeschule, bevor es Probleme gibt, nicht erst danach."
+      ],
+      "fehler": [
+        "Den Hund nur nebenbei laufen lassen, weil gerade keine Zeit ist.",
+        "Heute erlauben, was morgen verboten ist.",
+        "Ungeduld oder Frust am Hund auslassen.",
+        "Probleme aussitzen, statt früh Hilfe zu holen.",
+        "Vergessen, dass dein Hund älter wird und sich seine Bedürfnisse ändern."
+      ],
+      "verwandte": [
+        {
+          "type": "bibliothek",
+          "id": "vor-dem-hund"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kosten-pflichten"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kind-und-hund"
+        }
+      ],
+      "kurz": [
+        "Sei verlässlich: feste Abläufe, Betreuung planen, auch im Alter für ihn da sein.",
+        "Klare Regeln für alle im Haushalt, Belohnung statt Strafe.",
+        "Kenne deine Pflichten: Haftpflicht, Anmeldung bei der Gemeinde, Chip.",
+        "Hol dir früh Hilfe von einer guten Hundeschule."
+      ],
+      "quellen": [
+        {
+          "title": "Tierschutz-Hundeverordnung (gesetze-im-internet.de)",
+          "url": "https://www.gesetze-im-internet.de/tierschhuv/"
+        }
+      ],
+      "photo": "bibliothek-guter-halter",
+      "credit": {
+        "text": "Heiko Baumheyer mit Loki",
+        "url": null
+      }
+    },
+    {
+      "id": "kommunikation",
+      "title": "Wie kommuniziere ich mit meinem Hund",
+      "tag": "Mensch & Hund",
+      "featured": true,
+      "summary": "Körpersprache verstehen und selbst klar mit dem Hund kommunizieren – zwischen Mensch und Hund, und zwischen Hund und Hund.",
+      "ueberblick": "Hunde kommunizieren hauptsächlich über Körpersprache, nicht über Worte. Ohren, Rute, Körperhaltung, Mimik, Fell und sogar Duftmarken sind Teil eines fein abgestimmten Signalsystems. Wer diese Sprache lesen lernt, versteht seinen Hund viel besser, erkennt Stress oder Unsicherheit frühzeitig – und kann selbst klarer und fairer kommunizieren, statt sich nur auf Kommandos zu verlassen. Wichtig ist dabei immer das Gesamtbild: Ein einzelnes Signal (z.B. Schwanzwedeln) sagt wenig aus, erst die Kombination aus Körperhaltung, Mimik und Situation ergibt den vollständigen Sinn.",
+      "abschnitte": [
+        {
+          "title": "Kommunikation zwischen Mensch und Hund",
+          "text": "Viele gut gemeinte menschliche Gesten wirken auf Hunde bedrohlich, weil wir unsere eigene Körpersprache nicht an die des Hundes anpassen. Wer sich einem fremden oder unsicheren Hund frontal und aufrecht nähert, direkt auf ihn zuläuft und sich von oben nach vorne über ihn beugt, wirkt aus Hundesicht bedrängend und bedrohlich – auch wenn die Absicht freundlich ist. Besser: seitlich annähern, in die Hocke gehen, Oberkörper leicht abwenden, den Hund selbst entscheiden lassen, ob er näherkommt. Auch das Streicheln machen viele Menschen instinktiv falsch: Die Hand von oben auf den Kopf zu legen, empfinden viele Hunde als Bedrohung, selbst wenn manche es toleriert haben. Angenehmer sind Berührungen seitlich am Hals, an der Brust, an den Flanken oder am Schulterbereich – mit der Hand von der Seite kommend statt von oben. Auch direkter, langer Blickkontakt wird von Hunden häufig als Herausforderung oder Drohung gelesen, während Menschen ihn als normal und freundlich empfinden. Ein entspannter, kurzer Blick oder ein bewusstes Wegschauen signalisiert dagegen Freundlichkeit. Zusätzlich reagieren Hunde sehr stark auf Tonfall und Körperspannung: eine ruhige, tiefe Stimme und langsame, vorhersehbare Bewegungen wirken beruhigend, hektische Bewegungen oder eine hohe, aufgeregte Stimme können Erregung oder Unsicherheit auslösen."
+        },
+        {
+          "title": "Kommunikation zwischen Hunden",
+          "text": "Hunde untereinander kommunizieren über ein komplexes System aus Körperhaltung, Mimik, Lautäußerungen und Duftmarken. Freundlich gesinnte Hunde nähern sich einander typischerweise nicht frontal, sondern in einem leichten Bogen – eine direkte, gerade Annäherung wird unter Hunden eher als Konfrontation gewertet. Beim Spiel gibt es klare Rituale wie die 'Spielverbeugung' (Vorderkörper tief, Hinterteil hoch, Rute wedelnd), die signalisiert: 'Das Folgende ist nur Spiel, kein Ernst.' Konflikte werden meist über abgestufte Warnsignale vermieden, bevor es zu echten Auseinandersetzungen kommt: Kopf abwenden, Lippen lecken, Gähnen, Erstarren, Knurren – jede Stufe ist eine Kommunikation, kein 'Fehlverhalten'. Knurren ist dabei besonders wichtig und sollte nie bestraft werden: Es ist eine ehrliche Warnung, die dem Gegenüber Raum zum Rückzug gibt. Wird Knurren bestraft, lernt der Hund lediglich, dieses Warnsignal zu unterdrücken – die Anspannung dahinter bleibt bestehen und kann sich unangekündigt entladen. Auch Duftmarken (Urin, Kot, Sekret der Analdrüsen) sind Kommunikation: Sie hinterlassen Informationen über Identität, Geschlecht und Zustand eines Hundes für andere, die später vorbeikommen."
+        },
+        {
+          "title": "Deine Stimmung überträgt sich",
+          "text": "Hunde lesen nicht nur deine Gesten, sondern auch deine Stimmung. Bist du angespannt, hältst du die Leine fester, atmest flacher und bewegst dich hektischer. Dein Hund merkt das sofort, oft bevor du es selbst merkst. Eine Studie hat sogar gezeigt, dass sich das Stresslevel von Hund und Halter über Monate angleichen kann. Gerade bei Hundebegegnungen kann deine Anspannung seine Unsicherheit verstärken. Umgekehrt gibt ihm deine Ruhe Halt: lockere Leine, ruhiger Atem, gleichmäßige Schritte und eine freundliche Stimme. Du darfst trotzdem mal nervös sein. Aber es lohnt sich, auf dich selbst zu achten: bewusst ausatmen, die Schultern lockern und schwierige Situationen vorher planen. Und an stressigen Tagen hilft ein ruhiger Schnüffelspaziergang euch beiden mehr als ein volles Trainingsprogramm."
+        }
+      ],
+      "varianten": [
+        {
+          "name": "Körpersprache des Hundes lesen",
+          "pro": "Erkennt Stress, Unsicherheit oder Freude frühzeitig, bevor es eskaliert",
+          "contra": "Signale sind rasseabhängig unterschiedlich gut sichtbar (z.B. bei kupierten Ruten oder Stehohren)"
+        },
+        {
+          "name": "Eigene Körpersprache bewusst einsetzen",
+          "pro": "Ruhige, klare Signale schaffen Vertrauen und Sicherheit",
+          "contra": "Erfordert Übung und Selbstbeobachtung, besonders in stressigen Momenten"
+        },
+        {
+          "name": "Stimme & Tonfall",
+          "pro": "Unterstützt Körpersprache, gut für Distanzsituationen",
+          "contra": "Wird oft überbewertet – Hunde reagieren stärker auf Körpersprache als auf Worte"
+        },
+        {
+          "name": "Beschwichtigungssignale (Calming Signals)",
+          "pro": "Frühwarnsystem für Stress und Unbehagen beim Hund; von Turid Rugaas ausführlich erforscht",
+          "contra": "Werden von Menschen häufig übersehen, fehlgedeutet oder überinterpretiert"
+        }
+      ],
+      "tipps": [
+        "Nicht direkt auf einen fremden oder unsicheren Hund zulaufen und sich nach vorne über ihn beugen – das wirkt bedrängend. Besser seitlich annähern und in die Hocke gehen.",
+        "Nicht von oben über den Kopf streicheln – das mag nicht jeder Hund. Seitlich am Hals, an der Brust oder an der Schulter ankommen ist meist angenehmer.",
+        "Gähnen, Lecken über die Nase, Abwenden des Kopfes oder langsames Blinzeln sind häufige Beschwichtigungssignale – sie zeigen, dass sich der Hund unwohl fühlt.",
+        "Ein wedelnder Schwanz bedeutet nicht automatisch Freude – Haltung, Geschwindigkeit und Höhe der Rute verändern die Bedeutung deutlich.",
+        "Direkten, langen Blickkontakt vermeiden, wenn ein unsicherer oder fremder Hund das als Bedrohung auffassen könnte.",
+        "Knurren niemals bestrafen – es ist eine ehrliche Warnung, kein Fehlverhalten. Lieber die Situation entschärfen, die den Hund zum Knurren gebracht hat.",
+        "Beim Spielen zwischen Hunden auf die 'Spielverbeugung' achten – sie zeigt, dass das folgende Rangeln als Spiel gemeint ist.",
+        "Konsequenz zwischen eigener Körpersprache und gesprochenem Kommando herstellen – widersprüchliche Signale verwirren den Hund.",
+        "Vor schwierigen Begegnungen bewusst ausatmen und die Schultern lockern. Deine Ruhe überträgt sich auf deinen Hund."
+      ],
+      "fehler": [
+        "Direkt auf den Hund zulaufen und sich frontal von oben nach vorne über ihn beugen, um ihn zu begrüßen – wird von den meisten Hunden als Bedrohung empfunden.",
+        "Über den Kopf streicheln oder tätscheln statt seitlich am Hals oder an der Brust zu berühren.",
+        "Beschwichtigungssignale übersehen und den Hund weiter in eine unangenehme Situation drängen (z.B. bei Kinderkontakt oder Tierarztbesuchen).",
+        "Schwanzwedeln pauschal als 'der Hund freut sich' interpretieren, ohne auf die gesamte Körperhaltung zu achten.",
+        "Knurren bestrafen, statt die auslösende Situation zu entschärfen – dadurch lernt der Hund nur, die Warnung zu unterdrücken, nicht sich weniger bedroht zu fühlen.",
+        "Gemischte Signale senden, z.B. 'Komm' rufen, während man selbst wegläuft oder eine abweisende Körperhaltung einnimmt."
+      ],
+      "verwandte": [
+        {
+          "type": "lifestyle",
+          "id": "schutz-strassenhunde"
+        },
+        {
+          "type": "rasse",
+          "id": "huetehunde"
+        },
+        {
+          "type": "rasse",
+          "id": "spitze"
+        },
+        {
+          "type": "bibliothek",
+          "id": "welpenerziehung"
+        },
+        {
+          "type": "bibliothek",
+          "id": "wolf-hund"
+        },
+        {
+          "type": "bibliothek",
+          "id": "guter-halter"
+        }
+      ],
+      "kurz": [
+        "Hunde sprechen vor allem mit dem Körper. Achte immer auf das Gesamtbild, nicht nur auf die Rute.",
+        "Nähere dich seitlich, geh in die Hocke und lass den Hund entscheiden, ob er kommt.",
+        "Knurren ist eine Warnung. Nie bestrafen, sondern die Situation entschärfen.",
+        "Deine Ruhe überträgt sich auf deinen Hund."
+      ],
+      "quellen": [
+        {
+          "title": "Sundman et al. 2019: Stresslevel von Hund und Halter gleichen sich an (Scientific Reports)",
+          "url": "https://www.nature.com/articles/s41598-019-43851-x"
+        }
+      ],
+      "photo": "bibliothek-kommunikation",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "kind-und-hund",
+      "title": "Kind und Hund",
+      "summary": "Wie Kinder und Hunde sicher und fröhlich zusammen aufwachsen: Aufsicht, klare Regeln und Warnsignale.",
+      "kurz": [
+        "Kleine Kinder und Hund nie unbeaufsichtigt lassen, auch nicht kurz.",
+        "Der Hund braucht einen Rückzugsort, an dem ihn niemand stört.",
+        "Warnsignale wie Abwenden, Lecken, Erstarren und Knurren ernst nehmen."
+      ],
+      "ueberblick": "Kinder und Hunde können wunderbare Freunde werden. Damit das klappt, braucht es Regeln für beide und vor allem Erwachsene, die aufpassen. Die meisten Beißunfälle mit Kindern passieren mit dem eigenen oder einem bekannten Hund, oft zu Hause. Fast immer hat der Hund vorher Warnsignale gezeigt, die niemand verstanden hat.",
+      "abschnitte": [
+        {
+          "title": "Aufsicht ist alles",
+          "text": "Ein kleines Kind und ein Hund sollten nie allein in einem Raum sein, auch nicht für einen Moment und auch nicht beim liebsten Familienhund. Aufsicht heißt: Ein Erwachsener schaut wirklich hin und kann sofort eingreifen. Kannst du gerade nicht aufpassen, trenn die beiden, zum Beispiel mit einem Türgitter oder einer Box, die dein Hund als sicheren Ort kennt."
+        },
+        {
+          "title": "Regeln für Kinder",
+          "text": "Kinder lernen am besten mit einfachen, festen Regeln: den Hund nicht umarmen und nicht auf ihn klettern. Nicht stören, wenn er frisst, schläft oder auf seinem Platz liegt. Nicht hinterherlaufen, wenn er weggeht. Gestreichelt wird ruhig an Brust oder Seite, nicht am Kopf. Fremde Hunde nur nach Erlaubnis des Halters, und nur wenn der Hund selbst kommt. Umarmen ist für Menschen Liebe, für viele Hunde aber Bedrängnis."
+        },
+        {
+          "title": "Warnsignale verstehen",
+          "text": "Hunde warnen in Stufen: Sie wenden den Kopf ab, lecken sich über die Nase, gähnen, zeigen das Weiße im Auge, erstarren und knurren erst ganz am Ende. Bring deinen Kindern bei: Wenn der Hund weggeht oder erstarrt, lassen wir ihn in Ruhe. Und bestraf deinen Hund nie fürs Knurren. Er warnt, damit er nicht beißen muss."
+        },
+        {
+          "title": "Wenn ein Baby kommt",
+          "text": "Bereite deinen Hund schon in der Schwangerschaft vor: neue Regeln wie das Kinderzimmer langsam einführen, Babygeräusche leise abspielen und mit Leckerli verbinden, Spaziergänge mit dem Kinderwagen üben. Nach der Geburt darf er an Kleidung des Babys schnuppern. Gib ihm weiter feste Zeiten nur für ihn, damit das Baby für ihn mit schönen Dingen verbunden ist."
+        }
+      ],
+      "varianten": [
+        {
+          "name": "Welpe in einer Familie mit Kleinkind",
+          "pro": "Wächst mit dem Kind zusammen auf",
+          "contra": "Doppelte Arbeit: Welpe und Kleinkind brauchen beide viel Aufsicht"
+        },
+        {
+          "name": "Erwachsener, kinderfreundlicher Hund",
+          "pro": "Sein Charakter ist schon bekannt, oft gelassener",
+          "contra": "Vorher gut kennenlernen, am besten zusammen mit den Kindern"
+        },
+        {
+          "name": "Der Hund ist vor dem Baby da",
+          "pro": "Ihr habt Zeit, ihn vorzubereiten",
+          "contra": "Neue Regeln früh einführen, nicht erst wenn das Baby da ist"
+        }
+      ],
+      "tipps": [
+        "Richte einen Rückzugsort ein, den Kinder nie betreten dürfen.",
+        "Türgitter sind deine besten Freunde, solange die Kinder klein sind.",
+        "Lass Kinder unter Aufsicht kleine Aufgaben übernehmen, zum Beispiel ein Leckerli von der flachen Hand geben oder ein Suchspiel vorbereiten.",
+        "Erkläre Besuchskindern die Regeln, bevor sie den Hund treffen.",
+        "Plane jeden Tag ruhige Zeit nur für deinen Hund ein."
+      ],
+      "fehler": [
+        "Kind und Hund kurz allein lassen, weil er ja so lieb ist.",
+        "Fotos süß finden, auf denen ein Kind den Hund umarmt. Der Hund zeigt dabei oft deutlichen Stress.",
+        "Knurren bestrafen.",
+        "Kinder allein mit dem Hund an der Leine losschicken, wenn sie ihn nicht sicher halten können.",
+        "Den Hund wegsperren, sobald das Baby da ist, statt ihn behutsam einzubinden."
+      ],
+      "verwandte": [
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        },
+        {
+          "type": "bibliothek",
+          "id": "guter-halter"
+        },
+        {
+          "type": "lifestyle",
+          "id": "familienhunde"
+        }
+      ],
+      "tag": "Mensch & Hund",
+      "photo": "bibliothek-kind-und-hund",
+      "credit": {
+        "text": "NPS Photo / Emily Mesner, Public domain, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Children_pet_a_sled_dog_before_the_dog_demonstration_at_the_Denali_Kennels_on_May_27,_2019._(c0d1c00a-7dfc-4d9b-b639-83b928240a82).JPG"
+      }
+    },
+    {
+      "id": "wolf-hund",
+      "title": "Vom Wolf zum Hund",
+      "tag": "Mensch & Hund",
+      "summary": "Was in jedem Hund vom Wolf steckt, und warum die Alpha-Theorie nicht stimmt.",
+      "ueberblick": "Hunde stammen von einer Wolfspopulation ab, die heute ausgestorben ist. Sie sind also keine gezähmten Grauwölfe von heute, sondern deren Verwandte. Vor mindestens 15.000 Jahren, nach manchen Schätzungen deutlich früher, begannen Wölfe und Menschen zusammenzuleben. Aus dieser Partnerschaft entstand das Tier, das uns heute besser versteht als jedes andere.",
+      "abschnitte": [
+        {
+          "title": "Was der Hund vom Wolf behalten hat",
+          "text": "Die Jagdsequenz (Orten, Fixieren, Anschleichen, Hetzen, Packen), das Leben in einer festen Gruppe, Körpersprache, Duftmarken und das Bedürfnis nach Ruhe nach Anstrengung. Jede Hundegruppe trägt einen anderen Teil dieses Erbes besonders stark: Hütehunde das Fixieren, Laufhunde die Spurarbeit, Terrier das Packen."
+        },
+        {
+          "title": "Was sich verändert hat",
+          "text": "Hunde folgen menschlichen Zeigegesten viel besser als Wölfe, auch ohne Training. Sie haben einen kleinen Muskel über den Augen, mit dem sie den typischen „Hundeblick“ machen, der Wölfen weitgehend fehlt. Und sie können Stärke verdauen, weil sie mit uns Menschen und unserer Nahrung gelebt haben."
+        },
+        {
+          "title": "Der Mythos vom Alpha-Wolf",
+          "text": "Die Idee vom „Alpha“, der sich an die Spitze kämpft, stammt aus Beobachtungen einander fremder Wölfe in Gehegen. Freilebende Wolfsrudel sind Familien: Eltern und ihr Nachwuchs. Die Eltern führen, weil sie erfahren sind, nicht weil sie dominieren. Für deinen Hund heißt das: Er braucht keinen „Rudelführer“, der ihn unterwirft, sondern eine verlässliche Bezugsperson, die Sicherheit, Struktur und gute Erfahrungen gibt."
+        }
+      ],
+      "varianten": [
+        {
+          "name": "Jagdverhalten umlenken",
+          "pro": "Erbe wird zur Beschäftigung: Reizangel, Nasenarbeit, Dummy",
+          "contra": "Muss zum Hundetyp passen, sonst pusht es hoch"
+        },
+        {
+          "name": "Familien-Struktur geben",
+          "pro": "Routinen und Rückzugsorte geben Sicherheit wie im Familienrudel",
+          "contra": "Braucht Konsequenz im Alltag, nicht Strenge"
+        },
+        {
+          "name": "Körpersprache lesen",
+          "pro": "Hunde kommunizieren wie Wölfe vor allem über den Körper",
+          "contra": "Einzelne Signale nicht überbewerten, immer das Gesamtbild sehen"
+        }
+      ],
+      "tipps": [
+        "Finde heraus, welcher Teil der Jagdsequenz bei deinem Hund am stärksten ist, und biete ihm genau dafür eine erlaubte Aufgabe.",
+        "Ruhe ist Wolfserbe: Nach Aufregung brauchen Hunde lange Pausen.",
+        "Führe durch Verlässlichkeit: gleiche Signale, gleiche Regeln, gute Konsequenzen."
+      ],
+      "fehler": [
+        "Den Hund „auf den Rücken drehen“ oder anderweitig unterwerfen, um zu zeigen, wer der Chef ist. Das zerstört Vertrauen.",
+        "Hunde wie Wölfe zu halten. Sie sind seit Jahrtausenden auf Menschen ausgerichtet und brauchen uns.",
+        "Jagdverhalten nur zu verbieten, statt es in sinnvolle Bahnen zu lenken."
+      ],
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "spitze"
+        },
+        {
+          "type": "bibliothek",
+          "id": "kommunikation"
+        },
+        {
+          "type": "bibliothek",
+          "id": "ruhe-auslastung"
+        }
+      ],
+      "photo": "wolf-hero",
+      "credit": {
+        "text": "User:Mas3cf, CC BY-SA 4.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg"
+      }
+    }
+  ],
+  "training": [
+    {
+      "id": "leinenfuehrigkeit",
+      "title": "Locker an der Leine",
+      "tag": "Alltag",
+      "summary": "Dein Hund läuft entspannt neben dir, statt dich durch die Straße zu ziehen.",
+      "ziel": "Dein Hund läuft an lockerer Leine neben dir, auch wenn es draußen spannend wird.",
+      "ausruestung": [
+        "Gut angepasstes Y-Geschirr",
+        "Alltagsleine 2–3 m (keine Rollleine)",
+        "Leckerli-Beutel",
+        "Kleine, weiche Leckerli (erbsengroß)"
+      ],
+      "dauer": "Erste Fortschritte nach 1–2 Wochen. Zuverlässig im Alltag oft erst nach 2–3 Monaten.",
+      "stufen": [
+        {
+          "title": "Die Belohnungszone",
+          "schritte": [
+            "Übe drinnen. Lege fest, auf welcher Seite dein Hund laufen soll.",
+            "Steht dein Hund neben deinem Bein: Markerwort („Yes“) und Leckerli direkt an deiner Hosennaht geben.",
+            "Mach einen Schritt. Bleibt er neben dir: markieren und belohnen.",
+            "Steigere auf 3, dann 5, dann 10 Schritte."
+          ],
+          "weiter": "Dein Hund läuft 10 Schritte neben dir, in 8 von 10 Versuchen."
+        },
+        {
+          "title": "Richtungswechsel",
+          "schritte": [
+            "Geh in ruhiger Umgebung, zum Beispiel im Garten oder auf einer leeren Straße.",
+            "Bevor die Leine straff wird, drehst du dich freundlich um und gehst in die andere Richtung.",
+            "Holt dein Hund auf und ist an deinem Bein: markieren und belohnen.",
+            "Belohne anfangs alle paar Schritte. Viele Wendungen machen es spannend."
+          ],
+          "weiter": "2 Minuten ohne straffe Leine in ruhiger Umgebung."
+        },
+        {
+          "title": "Ziehen lohnt sich nicht",
+          "schritte": [
+            "Spannt sich die Leine, bleibst du ruhig stehen. Kein Rucken, kein Schimpfen.",
+            "Sobald die Leine locker wird, markieren und weitergehen. Weitergehen ist die Belohnung.",
+            "Zum Baum oder zur Wiese geht es nur mit lockerer Leine."
+          ],
+          "weiter": "Dein Hund lockert die Leine von selbst innerhalb von etwa 3 Sekunden."
+        },
+        {
+          "title": "Ablenkung steigern",
+          "schritte": [
+            "Steigere langsam: ruhige Straße, dann Park, dann Orte mit Hunden oder Wild.",
+            "Wird es schwieriger, vergrößere den Abstand zur Ablenkung und belohne wieder häufiger.",
+            "Erlaube Schnüffelpausen mit einem eigenen Signal („Lauf“) als Belohnung."
+          ],
+          "weiter": "Ein normaler Spaziergang klappt überwiegend mit lockerer Leine."
+        }
+      ],
+      "fehler": [
+        "An der Leine rucken oder „Fuß“ ständig wiederholen. Das macht die Leine unangenehm, lehrt aber nicht, wo der richtige Platz ist.",
+        "Ziehen manchmal doch zum Ziel führen lassen, zum Beispiel zum anderen Hund. Dann lohnt sich Ziehen weiter.",
+        "Das Leckerli vor dir statt an deinem Bein geben. Dann lernt dein Hund, vorzulaufen.",
+        "Zu lange Einheiten. Lieber mehrmals am Tag 5 Minuten.",
+        "Mit der Rollleine üben. Sie hält die Leine ständig gespannt, und genau das soll dein Hund ja verlernen."
+      ],
+      "hilfe": [
+        "Hast du gerade keine Zeit zum Trainieren, nutze für diesen Spaziergang eine andere Ausrüstung, zum Beispiel einen anderen Leinenring. So lernt dein Hund: Mit der Trainingsleine gelten die Regeln.",
+        "Zieht dein Hund bellend zu anderen Hunden, steckt oft Unsicherheit oder Frust dahinter. Hol dir dann Hilfe bei einem Trainer mit belohnungsbasierten Methoden.",
+        "Läuft dein Hund plötzlich langsamer oder will nicht mehr laufen: Passform des Geschirrs prüfen und an Schmerzen denken."
+      ],
+      "verwandte": [
+        {
+          "type": "bibliothek",
+          "id": "leinen-halsband"
+        },
+        {
+          "type": "training",
+          "id": "impulskontrolle"
+        },
+        {
+          "type": "bibliothek",
+          "id": "clickertraining"
+        }
+      ],
+      "photo": "training-leinenfuehrigkeit",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "rueckruf",
+      "title": "Rückruf",
+      "tag": "Sicherheit",
+      "summary": "Ein Pfiff, und dein Hund kommt. Der Schritt für Schritt zum sicheren Rückruf.",
+      "ziel": "Dein Hund kommt auf ein Signal sofort zu dir, auch wenn es draußen spannend ist.",
+      "ausruestung": [
+        "Schleppleine 5–10 m, am besten aus Biothane, immer am Geschirr, nie am Halsband",
+        "Hundepfeife",
+        "Super-Leckerli wie Käse oder Fleischwurst",
+        "Handschuhe für die Schleppleine"
+      ],
+      "dauer": "Aufbau 4–8 Wochen. Mit Ablenkung mehrere Monate. Hunde mit viel Jagdtrieb brauchen länger.",
+      "stufen": [
+        {
+          "title": "Den Pfiff aufladen",
+          "schritte": [
+            "Pfeife einmal (zum Beispiel ein Doppelpfiff) und gib sofort ein Super-Leckerli.",
+            "Dein Hund muss dafür nichts tun. Er lernt nur: Pfiff bedeutet etwas richtig Gutes.",
+            "Etwa 10 Mal am Tag, 1–2 Wochen lang."
+          ],
+          "weiter": "Dein Hund dreht sich beim Pfiff blitzschnell zu dir um."
+        },
+        {
+          "title": "Drinnen und im Garten",
+          "schritte": [
+            "Pfeife, wenn dein Hund sowieso gerade auf dem Weg zu dir ist.",
+            "Kommt er an: Party! Mehrere Leckerli nacheinander (Jackpot).",
+            "Dann rufst du, wenn er leicht abgelenkt ist, zum Beispiel beim Schnüffeln."
+          ],
+          "weiter": "9 von 10 Rückrufen klappen ohne Zögern."
+        },
+        {
+          "title": "Draußen an der Schleppleine",
+          "schritte": [
+            "Rufe nur, wenn du ziemlich sicher bist, dass er kommt.",
+            "Nach dem Kommen oft wieder freigeben („Lauf!“). Kommen bedeutet nicht, dass der Spaß vorbei ist.",
+            "Die Schleppleine verhindert, dass Weglaufen sich lohnt."
+          ],
+          "weiter": "Der Rückruf klappt an 5 verschiedenen Orten mit leichter Ablenkung."
+        },
+        {
+          "title": "Ablenkung und Belohnung mit Freiheit",
+          "schritte": [
+            "Steigere die Ablenkung langsam: Spielzeug am Boden, ein Hund in der Ferne, frische Wildspuren.",
+            "Nutze, was dein Hund gerade will, als Belohnung: Ruf ihn von einer Schnüffelstelle ab und schick ihn danach wieder hin.",
+            "Erst wenn es bei mittlerer Ablenkung zuverlässig klappt: Freilauf in sicherem Gelände."
+          ],
+          "weiter": "Zuverlässiger Rückruf bei mittlerer Ablenkung, mehrere Wochen lang."
+        }
+      ],
+      "fehler": [
+        "Rufen und dann die Leine anlegen oder nach Hause gehen. Dann lernt dein Hund: Kommen beendet den Spaß.",
+        "Schimpfen, wenn er endlich kommt, auch wenn es lange gedauert hat.",
+        "Das Signal mehrmals rufen. Dann wird es zum Hintergrundrauschen.",
+        "Ohne Schleppleine üben, bevor der Rückruf sicher sitzt."
+      ],
+      "hilfe": [
+        "Klappt es in einer Situation sicher nicht, ruf nicht. Geh lieber hin und hol deinen Hund. So bleibt das Signal stark.",
+        "Bei Hunden mit starkem Jagdtrieb (Laufhunde, Windhunde, Terrier, Vorstehhunde) bleibt die Schleppleine oft lange nötig. Ein Anti-Jagd-Training mit Trainer hilft.",
+        "In vielen Bundesländern gilt im Frühjahr und Sommer (Brut- und Setzzeit) Leinenpflicht im Wald. Informiere dich vor Ort."
+      ],
+      "verwandte": [
+        {
+          "type": "rasse",
+          "id": "laufhunde"
+        },
+        {
+          "type": "training",
+          "id": "impulskontrolle"
+        },
+        {
+          "type": "bibliothek",
+          "id": "grunderziehung"
+        }
+      ],
+      "photo": "rasse-laufhunde",
+      "credit": {
+        "text": "Unsplash",
+        "url": "https://unsplash.com/license"
+      }
+    },
+    {
+      "id": "impulskontrolle",
+      "title": "Impulskontrolle",
+      "tag": "Grundlagen",
+      "summary": "Warten lohnt sich: am Napf, an der Tür und bei Leckerli auf dem Boden.",
+      "ziel": "Dein Hund lernt, kurz abzuwarten, statt sofort zuzugreifen oder loszustürmen.",
+      "ausruestung": [
+        "Leckerli",
+        "Futternapf",
+        "Ein ruhiger Raum"
+      ],
+      "dauer": "Grundlagen in 2–3 Wochen. Danach übst du nebenbei im Alltag weiter.",
+      "stufen": [
+        {
+          "title": "Deine Wahl",
+          "schritte": [
+            "Nimm ein Leckerli in die geschlossene Faust. Dein Hund darf schnüffeln und lecken. Du wartest.",
+            "Weicht er kurz zurück: markieren und ein Leckerli aus der anderen Hand geben.",
+            "Dann öffnest du die Faust. Geht er hin, schließt du sie ruhig wieder."
+          ],
+          "weiter": "Dein Hund wartet 3 Sekunden vor der offenen Hand mit Futter."
+        },
+        {
+          "title": "Warten am Napf",
+          "schritte": [
+            "Senke den Napf langsam ab. Bleibt dein Hund ruhig, geht es weiter nach unten.",
+            "Springt er auf, geht der Napf wieder nach oben. Ohne Worte.",
+            "Steht der Napf am Boden: Freigabe-Signal („Okay“) und er darf fressen."
+          ],
+          "weiter": "Der Napf steht am Boden und dein Hund wartet 3–5 Sekunden auf die Freigabe."
+        },
+        {
+          "title": "Warten an der Tür",
+          "schritte": [
+            "Öffne die Tür einen Spalt. Drängelt dein Hund, schließt du sie sanft wieder. Pass auf, dass nichts eingeklemmt wird.",
+            "Wartet er ruhig, öffnest du weiter. Dann kommt die Freigabe.",
+            "Übe das auch am Auto. Das ist wichtig für die Sicherheit."
+          ],
+          "weiter": "Die Tür ist ganz offen und dein Hund wartet auf die Freigabe."
+        },
+        {
+          "title": "„Lass“ im Alltag",
+          "schritte": [
+            "Leg ein Leckerli auf den Boden und deck es mit der Hand ab.",
+            "Lässt dein Hund davon ab: markieren und ein besseres Leckerli aus deiner Hand geben.",
+            "Klappt es zuverlässig, sagst du „Lass“ dazu. Später gehst du an der Leine an Futter auf dem Boden vorbei."
+          ],
+          "weiter": "Dein Hund geht an Futter auf dem Boden vorbei und schaut zu dir."
+        }
+      ],
+      "fehler": [
+        "Zu schnell zu lange warten lassen. Lieber eine Sekunde mehr pro Schritt.",
+        "Die Freigabe vergessen. Dann entscheidet dein Hund selbst, wann es vorbei ist.",
+        "Strafen. Impulskontrolle entsteht durch Erfolg, nicht durch Druck.",
+        "Zu lange Einheiten. Impulskontrolle ist für Hunde echte Kopfarbeit."
+      ],
+      "hilfe": [
+        "Welpen und Junghunde können nur kurz warten. Passe deine Erwartungen dem Alter an.",
+        "Ein übermüdeter Hund kann sich schlecht beherrschen. Achte auf genug Schlaf und Ruhe.",
+        "Wird dein Hund sehr frustriert (Bellen, Schnappen), mach es leichter und hol dir Unterstützung."
+      ],
+      "verwandte": [
+        {
+          "type": "bibliothek",
+          "id": "ruhe-auslastung"
+        },
+        {
+          "type": "training",
+          "id": "leinenfuehrigkeit"
+        },
+        {
+          "type": "bibliothek",
+          "id": "clickertraining"
+        }
+      ],
+      "photo": "training-impulskontrolle",
+      "credit": {
+        "text": "Mariah Gale from Massachusetts, CC BY 2.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Labrador_Retrievers_chocolate_look_up.jpg"
+      }
+    },
+    {
+      "id": "stubenreinheit",
+      "title": "Stubenreinheit",
+      "tag": "Welpe",
+      "summary": "Mit festem Rhythmus und Lob draußen, ohne Strafe drinnen.",
+      "ziel": "Dein Hund löst sich draußen und zeigt dir, wenn er raus muss.",
+      "ausruestung": [
+        "Leckerli in der Jackentasche an der Tür",
+        "Enzymreiniger für Unfälle",
+        "Ein sicherer Bereich für unbeaufsichtigte Zeit, zum Beispiel ein Welpenauslauf"
+      ],
+      "dauer": "Die meisten Welpen sind mit 4–6 Monaten zuverlässig stubenrein. Erwachsene Hunde aus dem Tierschutz oft schon nach 1–3 Wochen.",
+      "stufen": [
+        {
+          "title": "Fester Rhythmus",
+          "schritte": [
+            "Geh raus nach dem Schlafen, nach dem Fressen, nach dem Spielen, nach Aufregung und vor dem Schlafen.",
+            "Junge Welpen zusätzlich etwa alle 1–2 Stunden, nachts anfangs 1–2 Mal.",
+            "Geh immer an dieselbe Stelle. Der Geruch hilft deinem Hund."
+          ],
+          "weiter": "Tagsüber passieren kaum noch Unfälle."
+        },
+        {
+          "title": "Im richtigen Moment loben",
+          "schritte": [
+            "Warte ruhig. Ist dein Hund fertig, lobst du leise und gibst das Leckerli direkt dort.",
+            "Bleib danach noch etwas draußen. Sonst lernt er: Pipi machen beendet den Ausflug.",
+            "Sag beim Lösen ein Signalwort, zum Beispiel „Pipi“. Später hilft das auf Reisen."
+          ],
+          "weiter": "Dein Hund löst sich draußen meist innerhalb weniger Minuten."
+        },
+        {
+          "title": "Signale erkennen",
+          "schritte": [
+            "Achte auf Schnüffeln am Boden, Kreisen, Unruhe oder Laufen zur Tür. Dann sofort raus.",
+            "Kannst du nicht aufpassen, ist dein Hund in seinem sicheren Bereich.",
+            "Passiert ein Unfall: ohne Kommentar rausbringen und die Stelle mit Enzymreiniger putzen."
+          ],
+          "weiter": "Dein Hund zeigt dir, dass er raus muss."
+        },
+        {
+          "title": "Abstände verlängern",
+          "schritte": [
+            "Verlängere die Pausen langsam.",
+            "Durchschlafen klappt bei vielen Welpen mit etwa 4–5 Monaten."
+          ],
+          "weiter": "2 Wochen ohne Unfall."
+        }
+      ],
+      "fehler": [
+        "Schimpfen oder die Nase hineinstecken. Dein Hund lernt nur, sich heimlich zu lösen.",
+        "Mit Reinigern mit Ammoniak putzen. Sie riechen für Hunde wie Urin.",
+        "Zu viel Freiheit in der Wohnung zu früh.",
+        "Welpen-Pads auf Dauer. Das verwirrt, wo der richtige Ort ist."
+      ],
+      "hilfe": [
+        "Wird ein stubenreiner Hund plötzlich wieder unsauber oder muss sehr oft: Tierarzt. Dahinter kann zum Beispiel eine Blasenentzündung stecken.",
+        "Passiert es nur, wenn dein Hund allein ist, kann Stress dahinterstecken. Schau in den Ratgeber „Alleinbleiben üben“.",
+        "Markieren bei erwachsenen Rüden ist etwas anderes als fehlende Stubenreinheit."
+      ],
+      "verwandte": [
+        {
+          "type": "bibliothek",
+          "id": "welpenerziehung"
+        },
+        {
+          "type": "bibliothek",
+          "id": "alleinbleiben"
+        },
+        {
+          "type": "bibliothek",
+          "id": "erste-tage"
+        }
+      ],
+      "photo": "training-stubenreinheit",
+      "credit": {
+        "text": "„Beagle puppy sitting on grass“, CC BY-SA 3.0, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Beagle_puppy_sitting_on_grass.jpg"
+      }
+    }
+  ],
+  "hero": {
+    "photo": "wolf-hero",
+    "credit": {
+      "text": "User:Mas3cf, CC BY-SA 4.0, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Eurasian_wolf_2.jpg"
+    }
+  },
+  "quiz": [
+    {
+      "q": "Wie viel Zeit hast du an einem normalen Tag wirklich für deinen Hund?",
+      "h": "Gemeint sind Spaziergänge, Training und Spielen. Für deinen Hund zählt die gemeinsame Zeit, nicht die Quadratmeter: Eine kleine Wohnung mit viel Zeit draußen ist besser als ein großes Haus, in dem er meist allein ist.",
+      "multi": false,
+      "o": [
+        {
+          "text": "Etwa eine Stunde",
+          "set": {
+            "bewegung": 1.5
+          },
+          "only": false
+        },
+        {
+          "text": "Ungefähr zwei Stunden",
+          "set": {
+            "bewegung": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Zwei bis drei Stunden",
+          "set": {
+            "bewegung": 4
+          },
+          "only": false
+        },
+        {
+          "text": "Mehr als drei Stunden, er ist bei fast allem dabei",
+          "set": {
+            "bewegung": 5
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Was wollt ihr zusammen machen?",
+      "h": "Wähle alles, was ihr regelmäßig machen wollt. Der Hund sollte auch zum aktivsten Teil passen: Wer joggen will, braucht einen Hund, der das gern und gesund mitmacht.",
+      "multi": true,
+      "o": [
+        {
+          "text": "Gemütliche Runden und viel Kuscheln",
+          "set": {
+            "bewegung": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Lange Spaziergänge, am Wochenende auch Wandern",
+          "set": {
+            "bewegung": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Joggen, Radfahren oder Bergtouren",
+          "set": {
+            "bewegung": 5
+          },
+          "only": false
+        },
+        {
+          "text": "Hundesport wie Agility oder Obedience",
+          "set": {
+            "bewegung": 4,
+            "training": 5
+          },
+          "only": false
+        },
+        {
+          "text": "Nasenarbeit, Suchspiele und Tricks",
+          "set": {
+            "training": 4
+          },
+          "only": false
+        },
+        {
+          "text": "Er soll überall dabei sein: Café, Büro, Ausflüge",
+          "set": {
+            "sozial": 5
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Wie lange ist dein Hund an einem Werktag am Stück allein?",
+      "h": "Erwachsene Hunde können mit Training einige Stunden allein bleiben. Regelmäßig mehr als fünf Stunden ist für fast jeden Hund zu viel.",
+      "multi": false,
+      "o": [
+        {
+          "text": "Fast nie, jemand ist da oder er kommt mit",
+          "set": {
+            "allein": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Bis zu drei Stunden",
+          "set": {
+            "allein": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Vier bis fünf Stunden",
+          "set": {
+            "allein": 4.5
+          },
+          "only": false
+        },
+        {
+          "text": "Mehr als fünf Stunden",
+          "set": {
+            "allein": 5,
+            "langeAllein": 1
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Wer lebt bei dir oder ist oft zu Besuch?",
+      "h": "Kleine Kinder bedeuten Trubel, Lärm und ungeschickte Hände. Manche Hunde stecken das gelassen weg, andere brauchen mehr Ruhe. Auch Enkel oder Nachbarskinder, die oft da sind, zählen.",
+      "multi": true,
+      "o": [
+        {
+          "text": "Nur Erwachsene",
+          "set": {
+            "familie": 1
+          },
+          "only": true
+        },
+        {
+          "text": "Kinder ab etwa acht Jahren",
+          "set": {
+            "familie": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Kleine Kinder oder ein Baby ist unterwegs",
+          "set": {
+            "familie": 5
+          },
+          "only": false
+        },
+        {
+          "text": "Oft Besuch von Kindern, z.B. Enkel oder Nachbarskinder",
+          "set": {
+            "familie": 3
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Welche Tiere leben schon bei dir, oder kommen dazu?",
+      "h": "Katzen und Kleintiere sind für Hunde mit starkem Jagdtrieb eine echte Herausforderung, auch im eigenen Wohnzimmer. Wähle alle Tiere aus, die bei dir leben.",
+      "multi": true,
+      "o": [
+        {
+          "text": "Keine anderen Tiere",
+          "set": {
+            "sozial": 1
+          },
+          "only": true
+        },
+        {
+          "text": "Ein anderer Hund",
+          "set": {
+            "sozial": 4.5
+          },
+          "only": false
+        },
+        {
+          "text": "Katze",
+          "set": {
+            "sozial": 4,
+            "jagd": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Kaninchen, Meerschweinchen oder Vögel",
+          "set": {
+            "sozial": 4,
+            "jagd": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Hühner, Pferde oder andere Hoftiere",
+          "set": {
+            "sozial": 4,
+            "jagd": 1
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Wie sieht euer Umfeld aus?",
+      "h": "In der Stadt begegnet dein Hund täglich vielen Menschen, Hunden und Geräuschen. Dafür braucht er ein offenes, gelassenes Wesen.",
+      "multi": false,
+      "o": [
+        {
+          "text": "Ruhig auf dem Land, wenig Begegnungen",
+          "set": {
+            "sozial": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Kleinstadt oder Stadtrand",
+          "set": {
+            "sozial": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Mitten in der Stadt mit viel Trubel",
+          "set": {
+            "sozial": 5
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Wie wichtig ist dir, dass dein Hund ohne Leine frei laufen kann?",
+      "h": "Jagdtrieb ist angeboren. Er lässt sich mit Training lenken, aber bei manchen Clans bleibt Freilauf im Wald immer ein Risiko.",
+      "multi": false,
+      "o": [
+        {
+          "text": "Sehr wichtig, er soll im Wald frei laufen",
+          "set": {
+            "jagd": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Schön wäre es, muss aber nicht",
+          "set": {
+            "jagd": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Leine ist für mich völlig okay",
+          "set": {
+            "jagd": 5
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Wie viel Hunde-Erfahrung bringst du mit?",
+      "h": "Eigenständige Hunde verzeihen weniger Fehler. Für den ersten Hund ist ein kooperativer Partner Gold wert.",
+      "multi": false,
+      "o": [
+        {
+          "text": "Das wird mein erster Hund",
+          "set": {
+            "erfahrung": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Ich hatte schon einen Hund",
+          "set": {
+            "erfahrung": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Ich habe schon anspruchsvolle Hunde ausgebildet",
+          "set": {
+            "erfahrung": 5
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Wie viel Lust hast du auf Training?",
+      "h": "Arbeitshunde wie Hüte- und Vorstehhunde brauchen eine Aufgabe für den Kopf. Ohne Training werden sie unglücklich.",
+      "multi": false,
+      "o": [
+        {
+          "text": "Grundgehorsam reicht mir",
+          "set": {
+            "training": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Ich übe gern regelmäßig kleine Dinge",
+          "set": {
+            "training": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Ich liebe Training und neue Aufgaben",
+          "set": {
+            "training": 5
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Wie viel Zeit willst du in Fellpflege stecken?",
+      "h": "Hunde, die kaum haaren, brauchen oft mehr Pflege: Ihr Fell wächst und muss geschnitten werden.",
+      "multi": false,
+      "o": [
+        {
+          "text": "So wenig wie möglich",
+          "set": {
+            "pflege": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Einmal pro Woche bürsten ist okay",
+          "set": {
+            "pflege": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Gern auch Trimmen, Scheren oder täglich bürsten",
+          "set": {
+            "pflege": 5
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Hat jemand im Haushalt eine Hundehaar-Allergie?",
+      "h": "Kein Hund ist wirklich allergiefrei. Hunde, die wenig haaren, werden aber oft besser vertragen. Verbringt vor der Entscheidung mehrmals Zeit mit dem Hund.",
+      "multi": false,
+      "o": [
+        {
+          "text": "Nein",
+          "set": {},
+          "only": false
+        },
+        {
+          "text": "Ja",
+          "set": {
+            "allergie": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Weiß ich nicht genau",
+          "set": {
+            "allergieTest": 1
+          },
+          "only": false
+        }
+      ]
+    },
+    {
+      "q": "Was passt besser zu dir?",
+      "h": "Manche Hunde wollen immer bei dir sein, andere entscheiden gern selbst. Beides ist schön, wenn es zu dir passt.",
+      "multi": false,
+      "o": [
+        {
+          "text": "Ein Hund, der mir auf Schritt und Tritt folgt",
+          "set": {
+            "naehe": 1
+          },
+          "only": false
+        },
+        {
+          "text": "Mal so, mal so",
+          "set": {
+            "naehe": 3
+          },
+          "only": false
+        },
+        {
+          "text": "Ein Hund mit eigenem Kopf",
+          "set": {
+            "naehe": 5
+          },
+          "only": false
+        }
+      ]
+    }
+  ]
+}
